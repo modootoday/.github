@@ -1,0 +1,88 @@
+{
+  "activity": "최근 활동 – 공개 저장소 커밋 · 기준 2026-10-31 04:44 KST. 1) meari: release: drop npm distribution; meari ships through cargo/crates.io only (1시간 전). 2) jekyll-theme-modootoday: Release workflow: create the GitHub Release from the CHANGELOG entry after the gem push (2시간 전). 3) jekyll-theme-modootoday: Release 1.1.0: changelog, gem version and install snippets (3시간 전). 4) specfold: C162: refuse U+0085, U+2028, U+2029 in titles (3시간 전). 5) specfold: C161: -C resolves relative path arguments and keeps -C in next (3시간 전). 6) jekyll-theme-modootoday: Optimize: merge duplicate section rule in prose CSS, shorter scroll-region label fallback (3시간 전). 7) jekyll-theme-modootoday: Figures: SVG diagrams in dark mode and horizontal scroll on narrow screens (3시간 전). 8) meari: release: publish only crates missing from crates.io so bootstrap-published versions do not fail the tag run (7시간 전).",
+  "activity_items": [
+    {
+      "repo": "meari",
+      "url": "https://github.com/modootoday/meari",
+      "msg": "release: drop npm distribution; meari ships through cargo/crates.io only",
+      "when": "1시간 전"
+    },
+    {
+      "repo": "jekyll-theme-modootoday",
+      "url": "https://github.com/modootoday/jekyll-theme-modootoday",
+      "msg": "Release workflow: create the GitHub Release from the CHANGELOG entry after the gem push",
+      "when": "2시간 전"
+    },
+    {
+      "repo": "jekyll-theme-modootoday",
+      "url": "https://github.com/modootoday/jekyll-theme-modootoday",
+      "msg": "Release 1.1.0: changelog, gem version and install snippets",
+      "when": "3시간 전"
+    },
+    {
+      "repo": "specfold",
+      "url": "https://github.com/modootoday/specfold",
+      "msg": "C162: refuse U+0085, U+2028, U+2029 in titles",
+      "when": "3시간 전"
+    },
+    {
+      "repo": "specfold",
+      "url": "https://github.com/modootoday/specfold",
+      "msg": "C161: -C resolves relative path arguments and keeps -C in next",
+      "when": "3시간 전"
+    },
+    {
+      "repo": "jekyll-theme-modootoday",
+      "url": "https://github.com/modootoday/jekyll-theme-modootoday",
+      "msg": "Optimize: merge duplicate section rule in prose CSS, shorter scroll-region label fallback",
+      "when": "3시간 전"
+    },
+    {
+      "repo": "jekyll-theme-modootoday",
+      "url": "https://github.com/modootoday/jekyll-theme-modootoday",
+      "msg": "Figures: SVG diagrams in dark mode and horizontal scroll on narrow screens",
+      "when": "3시간 전"
+    },
+    {
+      "repo": "meari",
+      "url": "https://github.com/modootoday/meari",
+      "msg": "release: publish only crates missing from crates.io so bootstrap-published versions do not fail the tag run",
+      "when": "7시간 전"
+    }
+  ],
+  "activity_stamp": "2026-10-31 04:44 KST",
+  "card-biz": "모두의오늘 비즈 (대상: 사업자 · 대행사) – 브랜드의 오늘을, 근거가 남는 운영 결과로.. 제작 · 검토 · 승인 · 발행 · 고객사별 데이터 분리. 시작하기: biz.modoo.today",
+  "card-codex": "SOLA Codex (대상: 데이터 · 분석) – 콘텐츠 품질 점수를 계산하는 방식을 공개한 문서. 가이드북 · 분류 체계 · 용어집. 읽어보기: codex.datalab.tools",
+  "card-datalab": "데이터랩툴즈 헬퍼 (대상: 창작자 · 마케터) – 보던 화면을 분석 도구로 바꾸는 브라우저 헬퍼. 위젯 143개 · AIO 사이드패널 · MCP 브리지. 설치하기: datalab.tools",
+  "card-envs": "envs (대상: 개발자 도구) – 프로젝트의 모든 .env를 암호화된 카탈로그 하나로. $ npx @modootoday/envs init. 시작하기: envs.build",
+  "card-humanymous": "humanymous (대상: 개발자 도구) – 봇과 사람 요청을 구분하는 리버스 프록시 Gate. Apache-2.0 · 문서. 문서 보기: humanymous.net",
+  "card-ink": "Minago Ink (대상: 창작자) – 내 글 1~3편으로 말투를 배우는 AI 대필 작가. Written like you, minutes ago.. 시작하기: ink.minago.blog",
+  "card-kinekino": "kinekino (대상: 창작자) – 창작자를 위한 AI 영상 플레이어 · 클립 작업대. 자막 · 구간 감지 · 클립 · 로컬 모델 · pre-alpha. 저장소 보기: github.com/modootoday/kinekino",
+  "card-meari": "Meari (대상: 개발자 도구) – React·Tailwind 디자인 계약을 쓰는 Rust UI 프레임워크. Rust · Native/Web 빌더 · Apache-2.0 · 개발 중. 저장소 보기: github.com/modootoday/meari",
+  "card-modoo": "모두의오늘 (대상: 창작자) – 브랜드 콘텐츠를 운영하는 통합 AI OS. Write · Card · Motion · Voice · Market. 시작하기: modoo.today",
+  "card-pmcp": "pmcp (대상: 개발자 도구) – AI CLI 밑의 오픈소스 레이어: 스킬 · 공유 설정 · 메일박스. pmcp.toml. 시작하기: pmcp.build",
+  "card-skills": "모두의오늘 스킬 (대상: AI 사용자) – 87개 분야 508개 스킬 중 필요한 것만 읽는 MCP 커넥터. Claude · ChatGPT · Codex. 연결하기: skills.modoo.today",
+  "card-specfold": "specfold (대상: 개발자 도구) – 설계·계획 문서를 코드와 함께 움직이게. $ spec check. 시작하기: specfold.build",
+  "contact-blog": "블로그: 준비 중 (블로그)",
+  "contact-crates": "crates.io 크레이트: myso-kr (crates.io 프로필)",
+  "contact-github": "GitHub: @modootoday · @myso-kr (GitHub 조직 페이지)",
+  "contact-mail": "문의: support@modoo.today (메일 보내기)",
+  "contact-news": "뉴스레터: 준비 중 (뉴스레터)",
+  "contact-npm": "npm 패키지: ~modootoday (npmjs.com 프로필)",
+  "contact-rubygems": "RubyGems 젬: modootoday (rubygems.org 프로필)",
+  "contact-x": "X: x.com/datalab_tools (X 프로필)",
+  "divider-circuit": "",
+  "divider-flow": "",
+  "divider-pulse": "",
+  "flow": "모두의오늘 · 운영 흐름 다이어그램. 1단계 브랜드 브레인: 브랜드 정보를 축적. 2단계 통합 스튜디오: 글과 영상을 기획·제작. 3단계 발행: 채널에 내보내기. 4단계 성과: 다음 콘텐츠에 반영. 발행 성과를 다음 콘텐츠에 반영하는 운영 흐름으로 다시 1단계에 이어집니다",
+  "footer": "모두의오늘 마크. support@modoo.today · © 모두의오늘",
+  "hero": "모두의오늘 (MODOOTODAY · 1인 기업). 브랜드 콘텐츠를 운영하는 통합 AI OS. 콘텐츠 기획·제작·발행과 성과를 한 흐름에서. 창작자 서비스부터 개발자 CLI까지, 직접 만듭니다. 핵심 기능: 브랜드 브레인, 통합 스튜디오, 운영 흐름. 누르면 modoo.today로 이동",
+  "maker": "만드는 사람 최원. 모두의오늘 대표 · 개발자 · @myso-kr. 기획부터 개발, 출시와 운영까지 혼자 맡는 1인 기업입니다. 창작자 서비스, 사업자용 플랫폼, 개발자 CLI를 함께 만듭니다. 기술 스택: TypeScript, Rust, Go. 누르면 GitHub @myso-kr 프로필로 이동",
+  "sec-activity": "03 최근 활동 – 공개 저장소의 최근 커밋",
+  "sec-contact": "05 연락 – 문의와 링크",
+  "sec-flow": "02 이렇게 이어집니다 – 브랜드 브레인 · 스튜디오 · 발행 · 성과",
+  "sec-maker": "04 만드는 사람 – 대표 · 개발자 최원",
+  "sec-services": "01 서비스 – 누구를 위한 도구인지 한눈에",
+  "status": "모든 프로젝트는 계속 발전 중. 서비스·도구 12개 · 공개 저장소 다수 · 1인 기업이 직접 만들고 운영합니다. 문의 support@modoo.today",
+  "terminal": "터미널 사용 예 (modootoday — 개발자 도구). $ npx @modootoday/envs init — # 프로젝트의 .env 값을 암호화된 카탈로그로. $ spec check — # 프로젝트 문서를 규칙에 맞춰 검사합니다"
+}

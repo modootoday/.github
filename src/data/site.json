@@ -1,0 +1,261 @@
+{
+  "asset_base": "https://raw.githubusercontent.com/modootoday/.github/main/profile/assets",
+  "services": [
+    {
+      "slug": "modoo",
+      "name": "모두의오늘",
+      "url": "https://modoo.today",
+      "url_label": "modoo.today",
+      "audience": "창작자",
+      "one_line": "브랜드 콘텐츠를 운영하는 통합 AI OS",
+      "repo": "",
+      "card": {
+        "audience": "창작자",
+        "one_line": "브랜드 콘텐츠를 운영하는 통합 AI OS",
+        "meta": "Write · Card · Motion · Voice · Market",
+        "accent": "#b94022",
+        "cta": "시작하기",
+        "svg": "card-modoo"
+      }
+    },
+    {
+      "slug": "biz",
+      "name": "모두의오늘 비즈",
+      "url": "https://biz.modoo.today",
+      "url_label": "biz.modoo.today",
+      "audience": "사업자·대행사",
+      "one_line": "브랜드의 오늘을, 근거가 남는 운영 결과로.",
+      "repo": "",
+      "card": {
+        "audience": "사업자 · 대행사",
+        "one_line": "브랜드의 오늘을, 근거가 남는 운영 결과로.",
+        "meta": "제작 · 검토 · 승인 · 발행 · 고객사별 데이터 분리",
+        "accent": "#b94022",
+        "cta": "시작하기",
+        "svg": "card-biz"
+      }
+    },
+    {
+      "slug": "ink",
+      "name": "Minago Ink",
+      "url": "https://ink.minago.blog/en",
+      "url_label": "ink.minago.blog",
+      "audience": "창작자",
+      "one_line": "내 글로 말투를 배우는 AI 대필 작가",
+      "repo": "",
+      "card": {
+        "audience": "창작자",
+        "one_line": "내 글 1~3편으로 말투를 배우는 AI 대필 작가",
+        "meta": "Written like you, minutes ago.",
+        "accent": "#c41265",
+        "cta": "시작하기",
+        "svg": "card-ink"
+      }
+    },
+    {
+      "slug": "kinekino",
+      "name": "kinekino",
+      "url": "https://github.com/modootoday/kinekino",
+      "url_label": "github.com/modootoday/kinekino",
+      "audience": "창작자",
+      "one_line": "영상 보기, 자막, 클립 편집을 한 도구에서 하는 AI 플레이어 (pre-alpha)",
+      "repo": "",
+      "card": {
+        "audience": "창작자",
+        "one_line": "창작자를 위한 AI 영상 플레이어 · 클립 작업대",
+        "meta": "자막 · 구간 감지 · 클립 · 로컬 모델 · pre-alpha",
+        "accent": "#5B616B",
+        "cta": "저장소 보기",
+        "svg": "card-kinekino"
+      }
+    },
+    {
+      "slug": "skills",
+      "name": "모두의오늘 스킬",
+      "url": "https://skills.modoo.today",
+      "url_label": "skills.modoo.today",
+      "audience": "AI 사용자",
+      "one_line": "508개 스킬을 골라 읽는 MCP 커넥터",
+      "repo": "",
+      "card": {
+        "audience": "AI 사용자",
+        "one_line": "87개 분야 508개 스킬 중 필요한 것만 읽는 MCP 커넥터",
+        "meta": "Claude · ChatGPT · Codex",
+        "accent": "#b94022",
+        "cta": "연결하기",
+        "svg": "card-skills"
+      }
+    },
+    {
+      "slug": "datalab",
+      "name": "데이터랩툴즈 헬퍼",
+      "url": "https://datalab.tools",
+      "url_label": "datalab.tools",
+      "audience": "창작자·마케터",
+      "one_line": "보던 화면을 분석 도구로 바꾸는 브라우저 헬퍼",
+      "repo": "",
+      "card": {
+        "audience": "창작자 · 마케터",
+        "one_line": "보던 화면을 분석 도구로 바꾸는 브라우저 헬퍼",
+        "meta": "위젯 143개 · AIO 사이드패널 · MCP 브리지",
+        "accent": "#2463eb",
+        "cta": "설치하기",
+        "svg": "card-datalab"
+      }
+    },
+    {
+      "slug": "codex",
+      "name": "SOLA Codex",
+      "url": "https://codex.datalab.tools",
+      "url_label": "codex.datalab.tools",
+      "audience": "데이터·분석",
+      "one_line": "콘텐츠 품질 점수 계산 방식 공개 문서",
+      "repo": "",
+      "card": {
+        "audience": "데이터 · 분석",
+        "one_line": "콘텐츠 품질 점수를 계산하는 방식을 공개한 문서",
+        "meta": "가이드북 · 분류 체계 · 용어집",
+        "accent": "#2463eb",
+        "cta": "읽어보기",
+        "svg": "card-codex"
+      }
+    },
+    {
+      "slug": "envs",
+      "name": "envs",
+      "url": "https://envs.build",
+      "url_label": "envs.build",
+      "audience": "개발자",
+      "one_line": "<code>.env</code>를 암호화된 카탈로그 하나로",
+      "repo": "https://github.com/modootoday/envs",
+      "card": {
+        "audience": "개발자 도구",
+        "one_line": "프로젝트의 모든 .env를 암호화된 카탈로그 하나로",
+        "meta": "$ npx @modootoday/envs init",
+        "accent": "#803119",
+        "cta": "시작하기",
+        "svg": "card-envs"
+      }
+    },
+    {
+      "slug": "specfold",
+      "name": "specfold",
+      "url": "https://specfold.build",
+      "url_label": "specfold.build",
+      "audience": "개발자",
+      "one_line": "설계 문서를 코드와 함께, <code>spec check</code>",
+      "repo": "https://github.com/modootoday/specfold",
+      "card": {
+        "audience": "개발자 도구",
+        "one_line": "설계·계획 문서를 코드와 함께 움직이게",
+        "meta": "$ spec check",
+        "accent": "#5B616B",
+        "cta": "시작하기",
+        "svg": "card-specfold"
+      }
+    },
+    {
+      "slug": "pmcp",
+      "name": "pmcp",
+      "url": "https://pmcp.build",
+      "url_label": "pmcp.build",
+      "audience": "개발자",
+      "one_line": "AI CLI 밑의 스킬·설정·메일박스 레이어",
+      "repo": "https://github.com/modootoday/pmcp",
+      "card": {
+        "audience": "개발자 도구",
+        "one_line": "AI CLI 밑의 오픈소스 레이어: 스킬 · 공유 설정 · 메일박스",
+        "meta": "pmcp.toml",
+        "accent": "#204635",
+        "cta": "시작하기",
+        "svg": "card-pmcp"
+      }
+    },
+    {
+      "slug": "humanymous",
+      "name": "humanymous",
+      "url": "https://humanymous.net",
+      "url_label": "humanymous.net",
+      "audience": "개발자",
+      "one_line": "봇과 사람을 구분하는 Gate (Apache-2.0)",
+      "repo": "https://github.com/modootoday/humanymous",
+      "card": {
+        "audience": "개발자 도구",
+        "one_line": "봇과 사람 요청을 구분하는 리버스 프록시 Gate",
+        "meta": "Apache-2.0 · 문서",
+        "accent": "#5B616B",
+        "cta": "문서 보기",
+        "svg": "card-humanymous"
+      }
+    },
+    {
+      "slug": "meari",
+      "name": "Meari",
+      "url": "https://github.com/modootoday/meari",
+      "url_label": "github.com/modootoday/meari",
+      "audience": "개발자",
+      "one_line": "React·Tailwind 디자인 계약을 쓰는 Rust UI 프레임워크 (개발 중)",
+      "repo": "",
+      "card": {
+        "audience": "개발자 도구",
+        "one_line": "React·Tailwind 디자인 계약을 쓰는 Rust UI 프레임워크",
+        "meta": "Rust · Native/Web 빌더 · Apache-2.0 · 개발 중",
+        "accent": "#5B616B",
+        "cta": "저장소 보기",
+        "svg": "card-meari"
+      }
+    }
+  ],
+  "contact": [
+    {
+      "svg": "contact-mail",
+      "href": "mailto:support@modoo.today",
+      "alt": "문의 support@modoo.today"
+    },
+    {
+      "svg": "contact-github",
+      "href": "https://github.com/modootoday",
+      "alt": "GitHub @modootoday"
+    },
+    {
+      "svg": "contact-x",
+      "href": "https://x.com/datalab_tools",
+      "alt": "X x.com/datalab_tools"
+    }
+  ],
+  "contact_later": [
+    {
+      "svg": "contact-blog",
+      "href": "https://...",
+      "alt": "블로그"
+    },
+    {
+      "svg": "contact-news",
+      "href": "https://...",
+      "alt": "뉴스레터"
+    }
+  ],
+  "packages": [
+    {
+      "svg": "contact-npm",
+      "href": "https://www.npmjs.com/~modootoday",
+      "alt": "npm 패키지 ~modootoday",
+      "label": "npm",
+      "text": "npmjs.com/~modootoday"
+    },
+    {
+      "svg": "contact-crates",
+      "href": "https://crates.io/users/myso-kr",
+      "alt": "crates.io 크레이트 myso-kr",
+      "label": "crates.io",
+      "text": "crates.io/users/myso-kr"
+    },
+    {
+      "svg": "contact-rubygems",
+      "href": "https://rubygems.org/profiles/modootoday",
+      "alt": "RubyGems 젬 modootoday",
+      "label": "RubyGems",
+      "text": "rubygems.org/profiles/modootoday"
+    }
+  ]
+}
