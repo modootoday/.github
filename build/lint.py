@@ -53,12 +53,12 @@ lv = [int(m.group(1) or len(m.group(2))) for m in re.finditer(r'<h([1-6])\b|^(#{
 if lv.count(1) != 1: err(f'expected exactly one h1, found {lv.count(1)}')
 for a, b in zip(lv, lv[1:]):
     if b > a + 1: err(f'heading level skipped: h{a} then h{b}')
-# 서비스 표 안에서만, 행의 서비스명이 든 title 이 있을 때 '방문하기'/'코드보기' 허용
-_tbl = re.search(r'<table\b(?:(?!</table>).)*?>방문하기</a>.*?</table>', live, flags=re.S)
+# 서비스 표 안에서만, 행의 서비스명이 든 title 이 있을 때 '웹사이트'/'저장소' 허용
+_tbl = re.search(r'<table\b(?:(?!</table>).)*?>웹사이트</a>.*?</table>', live, flags=re.S)
 _tspan = _tbl.span() if _tbl else (0, 0)
 for m in re.finditer(r'<a\b([^>]*)>(.*?)</a>', live, flags=re.S):
-    if norm(m.group(2)) in ('방문하기', '코드보기'):
-        if not (_tspan[0] <= m.start() < _tspan[1]) or not re.search(r'title="[^"]+ (방문하기|코드보기)"', m.group(1)):
+    if norm(m.group(2)) in ('웹사이트', '저장소'):
+        if not (_tspan[0] <= m.start() < _tspan[1]) or not re.search(r'title="[^"]+ (웹사이트|저장소)"', m.group(1)):
             err(f'generic link text "{m.group(2)}" outside services table or without title')
 for t in re.findall(r'<a\b[^>]*>(.*?)</a>', live, flags=re.S):   # 링크 이름이 비지 않도록
     if not norm(re.sub(r'<[^>]+>', '', t)) and 'alt="' not in t: err('link without text or alt')
