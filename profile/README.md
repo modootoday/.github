@@ -29,19 +29,19 @@
 </p>
 
 <table width="100%">
-<tr><th width="20%" align="left">서비스</th><th width="18%" align="left">대상</th><th width="37%" align="left">한 줄 소개</th><th width="25%" align="left">시작하기</th></tr>
-<tr><td>모두의오늘</td><td>창작자</td><td>브랜드 콘텐츠를 운영하는 통합 AI OS<br><sub>Write · Card · Motion · Voice · Market</sub></td><td><a href="https://modoo.today">모두의오늘 시작하기</a><br><sub><code>modoo.today</code></sub></td></tr>
-<tr><td>모두의오늘 비즈</td><td>사업자·대행사</td><td>브랜드의 오늘을, 근거가 남는 운영 결과로.<br><sub>제작 · 검토 · 승인 · 발행 · 고객사별 데이터 분리</sub></td><td><a href="https://biz.modoo.today">모두의오늘 비즈 시작하기</a><br><sub><code>biz.modoo.today</code></sub></td></tr>
-<tr><td>Minago Ink</td><td>창작자</td><td>내 글로 말투를 배우는 AI 대필 작가<br><sub>Written like you, minutes ago.</sub></td><td><a href="https://ink.minago.blog/en">Minago Ink 시작하기</a><br><sub><code>ink.minago.blog</code></sub></td></tr>
-<tr><td>kinekino</td><td>창작자</td><td>영상 보기, 자막, 클립 편집을 한 도구에서 하는 AI 플레이어 (pre-alpha)<br><sub>자막 · 구간 감지 · 클립 · 로컬 모델 · pre-alpha</sub></td><td><a href="https://github.com/modootoday/kinekino">kinekino 저장소 보기</a><br><sub><code>github.com/modootoday/kinekino</code></sub></td></tr>
-<tr><td>모두의오늘 스킬</td><td>AI 사용자</td><td>508개 스킬을 골라 읽는 MCP 커넥터<br><sub>Claude · ChatGPT · Codex</sub></td><td><a href="https://skills.modoo.today">모두의오늘 스킬 연결하기</a><br><sub><code>skills.modoo.today</code></sub></td></tr>
-<tr><td>데이터랩툴즈 헬퍼</td><td>창작자·마케터</td><td>보던 화면을 분석 도구로 바꾸는 브라우저 헬퍼<br><sub>위젯 143개 · AIO 사이드패널 · MCP 브리지</sub></td><td><a href="https://datalab.tools">데이터랩툴즈 헬퍼 설치하기</a><br><sub><code>datalab.tools</code></sub></td></tr>
-<tr><td>SOLA Codex</td><td>데이터·분석</td><td>콘텐츠 품질 점수 계산 방식 공개 문서<br><sub>가이드북 · 분류 체계 · 용어집</sub></td><td><a href="https://codex.datalab.tools">SOLA Codex 읽어보기</a><br><sub><code>codex.datalab.tools</code></sub></td></tr>
-<tr><td>envs</td><td>개발자</td><td><code>.env</code>를 암호화된 카탈로그 하나로<br><sub>$ npx @modootoday/envs init</sub></td><td><a href="https://envs.build">envs 시작하기</a><br><sub><code>envs.build</code></sub><br><a href="https://github.com/modootoday/envs">envs 저장소</a></td></tr>
-<tr><td>specfold</td><td>개발자</td><td>설계 문서를 코드와 함께, <code>spec check</code><br><sub>$ spec check</sub></td><td><a href="https://specfold.build">specfold 시작하기</a><br><sub><code>specfold.build</code></sub><br><a href="https://github.com/modootoday/specfold">specfold 저장소</a></td></tr>
-<tr><td>pmcp</td><td>개발자</td><td>AI CLI 밑의 스킬·설정·메일박스 레이어<br><sub>pmcp.toml</sub></td><td><a href="https://pmcp.build">pmcp 시작하기</a><br><sub><code>pmcp.build</code></sub><br><a href="https://github.com/modootoday/pmcp">pmcp 저장소</a></td></tr>
-<tr><td>humanymous</td><td>개발자</td><td>봇과 사람을 구분하는 Gate (Apache-2.0)<br><sub>Apache-2.0 · 문서</sub></td><td><a href="https://humanymous.net">humanymous 문서 보기</a><br><sub><code>humanymous.net</code></sub><br><a href="https://github.com/modootoday/humanymous">humanymous 저장소</a></td></tr>
-<tr><td>Meari</td><td>개발자</td><td>React·Tailwind 디자인 계약을 쓰는 Rust UI 프레임워크 (개발 중)<br><sub>Rust · Native/Web 빌더 · Apache-2.0 · 개발 중</sub></td><td><a href="https://github.com/modootoday/meari">Meari 저장소 보기</a><br><sub><code>github.com/modootoday/meari</code></sub></td></tr>
+<tr><th width="20%" align="left">서비스</th><th width="18%" align="left">대상</th><th width="37%" align="left">한 줄 소개</th><th width="25%" align="left">링크</th></tr>
+<tr><td>모두의오늘</td><td>창작자</td><td>브랜드 콘텐츠를 운영하는 통합 AI OS<br><sub>Write · Card · Motion · Voice · Market</sub></td><td><a href="https://modoo.today" title="모두의오늘 방문하기">방문하기</a><br><sub>modoo.today</sub></td></tr>
+<tr><td>모두의오늘 비즈</td><td>사업자·대행사</td><td>브랜드의 오늘을, 근거가 남는 운영 결과로.<br><sub>제작 · 검토 · 승인 · 발행 · 고객사별 데이터 분리</sub></td><td><a href="https://biz.modoo.today" title="모두의오늘 비즈 방문하기">방문하기</a><br><sub>biz.modoo.today</sub></td></tr>
+<tr><td>Minago Ink</td><td>창작자</td><td>내 글로 말투를 배우는 AI 대필 작가<br><sub>Written like you, minutes ago.</sub></td><td><a href="https://ink.minago.blog/en" title="Minago Ink 방문하기">방문하기</a><br><sub>ink.minago.blog</sub></td></tr>
+<tr><td>kinekino</td><td>창작자</td><td>영상 보기, 자막, 클립 편집을 한 도구에서 하는 AI 플레이어 (pre-alpha)<br><sub>자막 · 구간 감지 · 클립 · 로컬 모델 · pre-alpha</sub></td><td><a href="https://github.com/modootoday/kinekino" title="kinekino 코드보기">코드보기</a><br><sub>modootoday/kinekino</sub></td></tr>
+<tr><td>모두의오늘 스킬</td><td>AI 사용자</td><td>508개 스킬을 골라 읽는 MCP 커넥터<br><sub>Claude · ChatGPT · Codex</sub></td><td><a href="https://skills.modoo.today" title="모두의오늘 스킬 방문하기">방문하기</a><br><sub>skills.modoo.today</sub></td></tr>
+<tr><td>데이터랩툴즈 헬퍼</td><td>창작자·마케터</td><td>보던 화면을 분석 도구로 바꾸는 브라우저 헬퍼<br><sub>위젯 143개 · AIO 사이드패널 · MCP 브리지</sub></td><td><a href="https://datalab.tools" title="데이터랩툴즈 헬퍼 방문하기">방문하기</a><br><sub>datalab.tools</sub></td></tr>
+<tr><td>SOLA Codex</td><td>데이터·분석</td><td>콘텐츠 품질 점수 계산 방식 공개 문서<br><sub>가이드북 · 분류 체계 · 용어집</sub></td><td><a href="https://codex.datalab.tools" title="SOLA Codex 방문하기">방문하기</a><br><sub>codex.datalab.tools</sub></td></tr>
+<tr><td>envs</td><td>개발자</td><td><code>.env</code>를 암호화된 카탈로그 하나로<br><sub>$ npx @modootoday/envs init</sub></td><td><a href="https://envs.build" title="envs 방문하기">방문하기</a><br><a href="https://github.com/modootoday/envs" title="envs 코드보기">코드보기</a><br><sub>envs.build</sub></td></tr>
+<tr><td>specfold</td><td>개발자</td><td>설계 문서를 코드와 함께, <code>spec check</code><br><sub>$ spec check</sub></td><td><a href="https://specfold.build" title="specfold 방문하기">방문하기</a><br><a href="https://github.com/modootoday/specfold" title="specfold 코드보기">코드보기</a><br><sub>specfold.build</sub></td></tr>
+<tr><td>pmcp</td><td>개발자</td><td>AI CLI 밑의 스킬·설정·메일박스 레이어<br><sub>pmcp.toml</sub></td><td><a href="https://pmcp.build" title="pmcp 방문하기">방문하기</a><br><a href="https://github.com/modootoday/pmcp" title="pmcp 코드보기">코드보기</a><br><sub>pmcp.build</sub></td></tr>
+<tr><td>humanymous</td><td>개발자</td><td>봇과 사람을 구분하는 Gate (Apache-2.0)<br><sub>Apache-2.0 · 문서</sub></td><td><a href="https://humanymous.net" title="humanymous 방문하기">방문하기</a><br><a href="https://github.com/modootoday/humanymous" title="humanymous 코드보기">코드보기</a><br><sub>humanymous.net</sub></td></tr>
+<tr><td>Meari</td><td>개발자</td><td>React·Tailwind 디자인 계약을 쓰는 Rust UI 프레임워크 (개발 중)<br><sub>Rust · Native/Web 빌더 · Apache-2.0 · 개발 중</sub></td><td><a href="https://github.com/modootoday/meari" title="Meari 코드보기">코드보기</a><br><sub>modootoday/meari</sub></td></tr>
 </table>
 
 <details><summary><b>그 밖의 공개 저장소</b></summary>

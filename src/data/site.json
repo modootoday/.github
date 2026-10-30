@@ -16,6 +16,11 @@
         "accent": "#b94022",
         "cta": "시작하기",
         "svg": "card-modoo"
+      },
+      "link": {
+        "site": "https://modoo.today",
+        "code": "",
+        "label": "modoo.today"
       }
     },
     {
@@ -33,6 +38,11 @@
         "accent": "#b94022",
         "cta": "시작하기",
         "svg": "card-biz"
+      },
+      "link": {
+        "site": "https://biz.modoo.today",
+        "code": "",
+        "label": "biz.modoo.today"
       }
     },
     {
@@ -50,6 +60,11 @@
         "accent": "#c41265",
         "cta": "시작하기",
         "svg": "card-ink"
+      },
+      "link": {
+        "site": "https://ink.minago.blog/en",
+        "code": "",
+        "label": "ink.minago.blog"
       }
     },
     {
@@ -67,6 +82,11 @@
         "accent": "#5B616B",
         "cta": "저장소 보기",
         "svg": "card-kinekino"
+      },
+      "link": {
+        "site": "",
+        "code": "https://github.com/modootoday/kinekino",
+        "label": "modootoday/kinekino"
       }
     },
     {
@@ -84,6 +104,11 @@
         "accent": "#b94022",
         "cta": "연결하기",
         "svg": "card-skills"
+      },
+      "link": {
+        "site": "https://skills.modoo.today",
+        "code": "",
+        "label": "skills.modoo.today"
       }
     },
     {
@@ -101,6 +126,11 @@
         "accent": "#2463eb",
         "cta": "설치하기",
         "svg": "card-datalab"
+      },
+      "link": {
+        "site": "https://datalab.tools",
+        "code": "",
+        "label": "datalab.tools"
       }
     },
     {
@@ -118,6 +148,11 @@
         "accent": "#2463eb",
         "cta": "읽어보기",
         "svg": "card-codex"
+      },
+      "link": {
+        "site": "https://codex.datalab.tools",
+        "code": "",
+        "label": "codex.datalab.tools"
       }
     },
     {
@@ -135,6 +170,11 @@
         "accent": "#803119",
         "cta": "시작하기",
         "svg": "card-envs"
+      },
+      "link": {
+        "site": "https://envs.build",
+        "code": "https://github.com/modootoday/envs",
+        "label": "envs.build"
       }
     },
     {
@@ -152,6 +192,11 @@
         "accent": "#5B616B",
         "cta": "시작하기",
         "svg": "card-specfold"
+      },
+      "link": {
+        "site": "https://specfold.build",
+        "code": "https://github.com/modootoday/specfold",
+        "label": "specfold.build"
       }
     },
     {
@@ -169,6 +214,11 @@
         "accent": "#204635",
         "cta": "시작하기",
         "svg": "card-pmcp"
+      },
+      "link": {
+        "site": "https://pmcp.build",
+        "code": "https://github.com/modootoday/pmcp",
+        "label": "pmcp.build"
       }
     },
     {
@@ -186,6 +236,11 @@
         "accent": "#5B616B",
         "cta": "문서 보기",
         "svg": "card-humanymous"
+      },
+      "link": {
+        "site": "https://humanymous.net",
+        "code": "https://github.com/modootoday/humanymous",
+        "label": "humanymous.net"
       }
     },
     {
@@ -203,6 +258,11 @@
         "accent": "#5B616B",
         "cta": "저장소 보기",
         "svg": "card-meari"
+      },
+      "link": {
+        "site": "",
+        "code": "https://github.com/modootoday/meari",
+        "label": "modootoday/meari"
       }
     }
   ],
