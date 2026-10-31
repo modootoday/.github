@@ -84,18 +84,18 @@ $ spec check
 
 <h2><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/modootoday/.github/main/profile/assets/sec-activity-dark.svg"><img alt="03 최근 활동 – 공개 저장소의 최근 커밋" src="https://raw.githubusercontent.com/modootoday/.github/main/profile/assets/sec-activity-light.svg" width="100%"></picture></h2>
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/modootoday/.github/main/profile/assets/activity-dark.svg"><img alt="최근 활동 – 공개 저장소 커밋 · 기준 2026-10-31 20:27 KST. 1) specfold: fix: a spec.toml that does not load: doctor names the line, init --upgrade fails (C235) (23분 전). 2) specfold: docs: jekyll-theme-modootoday v1.2.3; drop the header toggle override the kit now covers (23분 전). 3) jekyll-theme-modootoday: Release 1.2.3 (1시간 전). 4) jekyll-theme-modootoday: features: hide the colon separator after a card title (1시간 전). 5) jekyll-theme-modootoday: example: keep the em-dash card separator (1시간 전). 6) jekyll-theme-modootoday: docs: run the checker on remote_theme sites (1시간 전). 7) meari: docs(site): publish on the default GitHub Pages address (1시간 전). 8) meari: spec: record the public docs site decision (2시간 전)." src="https://raw.githubusercontent.com/modootoday/.github/main/profile/assets/activity-light.svg" width="100%"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/modootoday/.github/main/profile/assets/activity-dark.svg"><img alt="최근 활동 – 공개 저장소 커밋 · 기준 2026-11-01 01:33 KST. 1) specfold: fix: 0.4.0 write wording and superseding hint steps write (C244, C245) (20분 전). 2) specfold: chore: release 0.4.0 (42분 전). 3) meari: docs(site): add Markdown twins, llms.txt and llms-full.txt for every page (1시간 전). 4) meari: docs(site): pin jekyll-theme-modootoday v1.4.1 (1시간 전). 5) jekyll-theme-modootoday: Release 1.4.1 (1시간 전). 6) jekyll-theme-modootoday: Tests: keep test/theme within 12 files (twin packages tests join docs_extra_test.rb) (1시간 전). 7) jekyll-theme-modootoday: Twins and llms-full.txt: export a reference page's packages: table as Markdown (2시간 전). 8) jekyll-theme-modootoday: Release 1.4.0 (2시간 전)." src="https://raw.githubusercontent.com/modootoday/.github/main/profile/assets/activity-light.svg" width="100%"></picture>
 
-<details><summary>최근 활동을 글로 보기 (2026-10-31 20:27 KST 기준)</summary>
+<details><summary>최근 활동을 글로 보기 (2026-11-01 01:33 KST 기준)</summary>
 
-- <a href="https://github.com/modootoday/specfold">specfold</a>: fix: a spec.toml that does not load: doctor names the line, init --upgrade fails (C235) (23분 전)
-- <a href="https://github.com/modootoday/specfold">specfold</a>: docs: jekyll-theme-modootoday v1.2.3; drop the header toggle override the kit now covers (23분 전)
-- <a href="https://github.com/modootoday/jekyll-theme-modootoday">jekyll-theme-modootoday</a>: Release 1.2.3 (1시간 전)
-- <a href="https://github.com/modootoday/jekyll-theme-modootoday">jekyll-theme-modootoday</a>: features: hide the colon separator after a card title (1시간 전)
-- <a href="https://github.com/modootoday/jekyll-theme-modootoday">jekyll-theme-modootoday</a>: example: keep the em-dash card separator (1시간 전)
-- <a href="https://github.com/modootoday/jekyll-theme-modootoday">jekyll-theme-modootoday</a>: docs: run the checker on remote_theme sites (1시간 전)
-- <a href="https://github.com/modootoday/meari">meari</a>: docs(site): publish on the default GitHub Pages address (1시간 전)
-- <a href="https://github.com/modootoday/meari">meari</a>: spec: record the public docs site decision (2시간 전)
+- <a href="https://github.com/modootoday/specfold">specfold</a>: fix: 0.4.0 write wording and superseding hint steps write (C244, C245) (20분 전)
+- <a href="https://github.com/modootoday/specfold">specfold</a>: chore: release 0.4.0 (42분 전)
+- <a href="https://github.com/modootoday/meari">meari</a>: docs(site): add Markdown twins, llms.txt and llms-full.txt for every page (1시간 전)
+- <a href="https://github.com/modootoday/meari">meari</a>: docs(site): pin jekyll-theme-modootoday v1.4.1 (1시간 전)
+- <a href="https://github.com/modootoday/jekyll-theme-modootoday">jekyll-theme-modootoday</a>: Release 1.4.1 (1시간 전)
+- <a href="https://github.com/modootoday/jekyll-theme-modootoday">jekyll-theme-modootoday</a>: Tests: keep test/theme within 12 files (twin packages tests join docs_extra_test.rb) (1시간 전)
+- <a href="https://github.com/modootoday/jekyll-theme-modootoday">jekyll-theme-modootoday</a>: Twins and llms-full.txt: export a reference page's packages: table as Markdown (2시간 전)
+- <a href="https://github.com/modootoday/jekyll-theme-modootoday">jekyll-theme-modootoday</a>: Release 1.4.0 (2시간 전)
 
 </details>
 

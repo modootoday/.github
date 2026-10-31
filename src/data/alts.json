@@ -1,56 +1,56 @@
 {
-  "activity": "최근 활동 – 공개 저장소 커밋 · 기준 2026-10-31 20:27 KST. 1) specfold: fix: a spec.toml that does not load: doctor names the line, init --upgrade fails (C235) (23분 전). 2) specfold: docs: jekyll-theme-modootoday v1.2.3; drop the header toggle override the kit now covers (23분 전). 3) jekyll-theme-modootoday: Release 1.2.3 (1시간 전). 4) jekyll-theme-modootoday: features: hide the colon separator after a card title (1시간 전). 5) jekyll-theme-modootoday: example: keep the em-dash card separator (1시간 전). 6) jekyll-theme-modootoday: docs: run the checker on remote_theme sites (1시간 전). 7) meari: docs(site): publish on the default GitHub Pages address (1시간 전). 8) meari: spec: record the public docs site decision (2시간 전).",
+  "activity": "최근 활동 – 공개 저장소 커밋 · 기준 2026-11-01 01:33 KST. 1) specfold: fix: 0.4.0 write wording and superseding hint steps write (C244, C245) (20분 전). 2) specfold: chore: release 0.4.0 (42분 전). 3) meari: docs(site): add Markdown twins, llms.txt and llms-full.txt for every page (1시간 전). 4) meari: docs(site): pin jekyll-theme-modootoday v1.4.1 (1시간 전). 5) jekyll-theme-modootoday: Release 1.4.1 (1시간 전). 6) jekyll-theme-modootoday: Tests: keep test/theme within 12 files (twin packages tests join docs_extra_test.rb) (1시간 전). 7) jekyll-theme-modootoday: Twins and llms-full.txt: export a reference page's packages: table as Markdown (2시간 전). 8) jekyll-theme-modootoday: Release 1.4.0 (2시간 전).",
   "activity_items": [
     {
       "repo": "specfold",
       "url": "https://github.com/modootoday/specfold",
-      "msg": "fix: a spec.toml that does not load: doctor names the line, init --upgrade fails (C235)",
-      "when": "23분 전"
+      "msg": "fix: 0.4.0 write wording and superseding hint steps write (C244, C245)",
+      "when": "20분 전"
     },
     {
       "repo": "specfold",
       "url": "https://github.com/modootoday/specfold",
-      "msg": "docs: jekyll-theme-modootoday v1.2.3; drop the header toggle override the kit now covers",
-      "when": "23분 전"
+      "msg": "chore: release 0.4.0",
+      "when": "42분 전"
     },
     {
-      "repo": "jekyll-theme-modootoday",
-      "url": "https://github.com/modootoday/jekyll-theme-modootoday",
-      "msg": "Release 1.2.3",
-      "when": "1시간 전"
-    },
-    {
-      "repo": "jekyll-theme-modootoday",
-      "url": "https://github.com/modootoday/jekyll-theme-modootoday",
-      "msg": "features: hide the colon separator after a card title",
-      "when": "1시간 전"
-    },
-    {
-      "repo": "jekyll-theme-modootoday",
-      "url": "https://github.com/modootoday/jekyll-theme-modootoday",
-      "msg": "example: keep the em-dash card separator",
-      "when": "1시간 전"
-    },
-    {
-      "repo": "jekyll-theme-modootoday",
-      "url": "https://github.com/modootoday/jekyll-theme-modootoday",
-      "msg": "docs: run the checker on remote_theme sites",
+      "repo": "meari",
+      "url": "https://github.com/modootoday/meari",
+      "msg": "docs(site): add Markdown twins, llms.txt and llms-full.txt for every page",
       "when": "1시간 전"
     },
     {
       "repo": "meari",
       "url": "https://github.com/modootoday/meari",
-      "msg": "docs(site): publish on the default GitHub Pages address",
+      "msg": "docs(site): pin jekyll-theme-modootoday v1.4.1",
       "when": "1시간 전"
     },
     {
-      "repo": "meari",
-      "url": "https://github.com/modootoday/meari",
-      "msg": "spec: record the public docs site decision",
+      "repo": "jekyll-theme-modootoday",
+      "url": "https://github.com/modootoday/jekyll-theme-modootoday",
+      "msg": "Release 1.4.1",
+      "when": "1시간 전"
+    },
+    {
+      "repo": "jekyll-theme-modootoday",
+      "url": "https://github.com/modootoday/jekyll-theme-modootoday",
+      "msg": "Tests: keep test/theme within 12 files (twin packages tests join docs_extra_test.rb)",
+      "when": "1시간 전"
+    },
+    {
+      "repo": "jekyll-theme-modootoday",
+      "url": "https://github.com/modootoday/jekyll-theme-modootoday",
+      "msg": "Twins and llms-full.txt: export a reference page's packages: table as Markdown",
+      "when": "2시간 전"
+    },
+    {
+      "repo": "jekyll-theme-modootoday",
+      "url": "https://github.com/modootoday/jekyll-theme-modootoday",
+      "msg": "Release 1.4.0",
       "when": "2시간 전"
     }
   ],
-  "activity_stamp": "2026-10-31 20:27 KST",
+  "activity_stamp": "2026-11-01 01:33 KST",
   "card-biz": "모두의오늘 비즈 (대상: 사업자 · 대행사) – 브랜드의 오늘을, 근거가 남는 운영 결과로.. 제작 · 검토 · 승인 · 발행 · 고객사별 데이터 분리. 시작하기: biz.modoo.today",
   "card-codex": "SOLA Codex (대상: 데이터 · 분석) – 콘텐츠 품질 점수를 계산하는 방식을 공개한 문서. 가이드북 · 분류 체계 · 용어집. 읽어보기: codex.datalab.tools",
   "card-datalab": "데이터랩툴즈 헬퍼 (대상: 창작자 · 마케터) – 보던 화면을 분석 도구로 바꾸는 브라우저 헬퍼. 위젯 143개 · AIO 사이드패널 · MCP 브리지. 설치하기: datalab.tools",
