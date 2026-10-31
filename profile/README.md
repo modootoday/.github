@@ -84,18 +84,18 @@ $ spec check
 
 <h2><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/modootoday/.github/main/profile/assets/sec-activity-dark.svg"><img alt="03 최근 활동 – 공개 저장소의 최근 커밋" src="https://raw.githubusercontent.com/modootoday/.github/main/profile/assets/sec-activity-light.svg" width="100%"></picture></h2>
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/modootoday/.github/main/profile/assets/activity-dark.svg"><img alt="최근 활동 – 공개 저장소 커밋 · 기준 2026-10-31 04:44 KST. 1) meari: release: drop npm distribution; meari ships through cargo/crates.io only (1시간 전). 2) jekyll-theme-modootoday: Release workflow: create the GitHub Release from the CHANGELOG entry after the gem push (2시간 전). 3) jekyll-theme-modootoday: Release 1.1.0: changelog, gem version and install snippets (3시간 전). 4) specfold: C162: refuse U+0085, U+2028, U+2029 in titles (3시간 전). 5) specfold: C161: -C resolves relative path arguments and keeps -C in next (3시간 전). 6) jekyll-theme-modootoday: Optimize: merge duplicate section rule in prose CSS, shorter scroll-region label fallback (3시간 전). 7) jekyll-theme-modootoday: Figures: SVG diagrams in dark mode and horizontal scroll on narrow screens (3시간 전). 8) meari: release: publish only crates missing from crates.io so bootstrap-published versions do not fail the tag run (7시간 전)." src="https://raw.githubusercontent.com/modootoday/.github/main/profile/assets/activity-light.svg" width="100%"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/modootoday/.github/main/profile/assets/activity-dark.svg"><img alt="최근 활동 – 공개 저장소 커밋 · 기준 2026-10-31 20:27 KST. 1) specfold: fix: a spec.toml that does not load: doctor names the line, init --upgrade fails (C235) (23분 전). 2) specfold: docs: jekyll-theme-modootoday v1.2.3; drop the header toggle override the kit now covers (23분 전). 3) jekyll-theme-modootoday: Release 1.2.3 (1시간 전). 4) jekyll-theme-modootoday: features: hide the colon separator after a card title (1시간 전). 5) jekyll-theme-modootoday: example: keep the em-dash card separator (1시간 전). 6) jekyll-theme-modootoday: docs: run the checker on remote_theme sites (1시간 전). 7) meari: docs(site): publish on the default GitHub Pages address (1시간 전). 8) meari: spec: record the public docs site decision (2시간 전)." src="https://raw.githubusercontent.com/modootoday/.github/main/profile/assets/activity-light.svg" width="100%"></picture>
 
-<details><summary>최근 활동을 글로 보기 (2026-10-31 04:44 KST 기준)</summary>
+<details><summary>최근 활동을 글로 보기 (2026-10-31 20:27 KST 기준)</summary>
 
-- <a href="https://github.com/modootoday/meari">meari</a>: release: drop npm distribution; meari ships through cargo/crates.io only (1시간 전)
-- <a href="https://github.com/modootoday/jekyll-theme-modootoday">jekyll-theme-modootoday</a>: Release workflow: create the GitHub Release from the CHANGELOG entry after the gem push (2시간 전)
-- <a href="https://github.com/modootoday/jekyll-theme-modootoday">jekyll-theme-modootoday</a>: Release 1.1.0: changelog, gem version and install snippets (3시간 전)
-- <a href="https://github.com/modootoday/specfold">specfold</a>: C162: refuse U+0085, U+2028, U+2029 in titles (3시간 전)
-- <a href="https://github.com/modootoday/specfold">specfold</a>: C161: -C resolves relative path arguments and keeps -C in next (3시간 전)
-- <a href="https://github.com/modootoday/jekyll-theme-modootoday">jekyll-theme-modootoday</a>: Optimize: merge duplicate section rule in prose CSS, shorter scroll-region label fallback (3시간 전)
-- <a href="https://github.com/modootoday/jekyll-theme-modootoday">jekyll-theme-modootoday</a>: Figures: SVG diagrams in dark mode and horizontal scroll on narrow screens (3시간 전)
-- <a href="https://github.com/modootoday/meari">meari</a>: release: publish only crates missing from crates.io so bootstrap-published versions do not fail the tag run (7시간 전)
+- <a href="https://github.com/modootoday/specfold">specfold</a>: fix: a spec.toml that does not load: doctor names the line, init --upgrade fails (C235) (23분 전)
+- <a href="https://github.com/modootoday/specfold">specfold</a>: docs: jekyll-theme-modootoday v1.2.3; drop the header toggle override the kit now covers (23분 전)
+- <a href="https://github.com/modootoday/jekyll-theme-modootoday">jekyll-theme-modootoday</a>: Release 1.2.3 (1시간 전)
+- <a href="https://github.com/modootoday/jekyll-theme-modootoday">jekyll-theme-modootoday</a>: features: hide the colon separator after a card title (1시간 전)
+- <a href="https://github.com/modootoday/jekyll-theme-modootoday">jekyll-theme-modootoday</a>: example: keep the em-dash card separator (1시간 전)
+- <a href="https://github.com/modootoday/jekyll-theme-modootoday">jekyll-theme-modootoday</a>: docs: run the checker on remote_theme sites (1시간 전)
+- <a href="https://github.com/modootoday/meari">meari</a>: docs(site): publish on the default GitHub Pages address (1시간 전)
+- <a href="https://github.com/modootoday/meari">meari</a>: spec: record the public docs site decision (2시간 전)
 
 </details>
 
