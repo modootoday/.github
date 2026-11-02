@@ -84,18 +84,18 @@ $ spec check
 
 <h2><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/modootoday/.github/main/profile/assets/sec-activity-dark.svg"><img alt="03 최근 활동 – 공개 저장소의 최근 커밋" src="https://raw.githubusercontent.com/modootoday/.github/main/profile/assets/sec-activity-light.svg" width="100%"></picture></h2>
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/modootoday/.github/main/profile/assets/activity-dark.svg"><img alt="최근 활동 – 공개 저장소 커밋 · 기준 2026-11-02 12:32 KST. 1) jekyll-theme-modootoday: Spec: link five orphan ADRs to the files they govern; archive the finished P1/P2 change doc (23시간 전). 2) jekyll-theme-modootoday: Ruby: 3.3 is the oldest supported Ruby (3.2 is end-of-life); CI adds Ruby 4.0 as an allowed-failure Jekyll 4 entry (23시간 전). 3) jekyll-theme-modootoday: QA scripts: lighthouse.sh stops when the port is in use and no longer leaves its http.server or temp dir behind; build-docs.sh removes its temp config; RELEASING lists i18n/ among packaged files (1일 전). 4) specfold: fix: refuse a second successor and point superseded edits at the current one (C246) (1일 전). 5) specfold: fix: 0.4.0 write wording and superseding hint steps write (C244, C245) (1일 전). 6) meari: docs(site): add Markdown twins, llms.txt and llms-full.txt for every page (1일 전). 7) meari: docs(site): pin jekyll-theme-modootoday v1.4.1 (1일 전). 8) jekyll-theme-modootoday: Release 1.4.1 (1일 전)." src="https://raw.githubusercontent.com/modootoday/.github/main/profile/assets/activity-light.svg" width="100%"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/modootoday/.github/main/profile/assets/activity-dark.svg"><img alt="최근 활동 – 공개 저장소 커밋 · 기준 2026-11-02 23:17 KST. 1) pmcp: chore: release pmcp 0.22.6 (1시간 전). 2) pmcp: docs: rebuild the git workflow page after the gitlink sync note (1시간 전). 3) specfold: test: release notes fallback uses a version with no CHANGELOG section (1시간 전). 4) specfold: chore: release 0.5.0 (1시간 전). 5) pmcp: chore: release pmcp 0.22.5 (1시간 전). 6) pmcp: fix(git): sync moves across a directory that became a gitlink (5시간 전). 7) jekyll-theme-modootoday: Spec: link five orphan ADRs to the files they govern; archive the finished P1/P2 change doc (1일 전). 8) jekyll-theme-modootoday: Ruby: 3.3 is the oldest supported Ruby (3.2 is end-of-life); CI adds Ruby 4.0 as an allowed-failure Jekyll 4 entry (1일 전)." src="https://raw.githubusercontent.com/modootoday/.github/main/profile/assets/activity-light.svg" width="100%"></picture>
 
-<details><summary>최근 활동을 글로 보기 (2026-11-02 12:32 KST 기준)</summary>
+<details><summary>최근 활동을 글로 보기 (2026-11-02 23:17 KST 기준)</summary>
 
-- <a href="https://github.com/modootoday/jekyll-theme-modootoday">jekyll-theme-modootoday</a>: Spec: link five orphan ADRs to the files they govern; archive the finished P1/P2 change doc (23시간 전)
-- <a href="https://github.com/modootoday/jekyll-theme-modootoday">jekyll-theme-modootoday</a>: Ruby: 3.3 is the oldest supported Ruby (3.2 is end-of-life); CI adds Ruby 4.0 as an allowed-failure Jekyll 4 entry (23시간 전)
-- <a href="https://github.com/modootoday/jekyll-theme-modootoday">jekyll-theme-modootoday</a>: QA scripts: lighthouse.sh stops when the port is in use and no longer leaves its http.server or temp dir behind; build-docs.sh removes its temp config; RELEASING lists i18n/ among packaged files (1일 전)
-- <a href="https://github.com/modootoday/specfold">specfold</a>: fix: refuse a second successor and point superseded edits at the current one (C246) (1일 전)
-- <a href="https://github.com/modootoday/specfold">specfold</a>: fix: 0.4.0 write wording and superseding hint steps write (C244, C245) (1일 전)
-- <a href="https://github.com/modootoday/meari">meari</a>: docs(site): add Markdown twins, llms.txt and llms-full.txt for every page (1일 전)
-- <a href="https://github.com/modootoday/meari">meari</a>: docs(site): pin jekyll-theme-modootoday v1.4.1 (1일 전)
-- <a href="https://github.com/modootoday/jekyll-theme-modootoday">jekyll-theme-modootoday</a>: Release 1.4.1 (1일 전)
+- <a href="https://github.com/modootoday/pmcp">pmcp</a>: chore: release pmcp 0.22.6 (1시간 전)
+- <a href="https://github.com/modootoday/pmcp">pmcp</a>: docs: rebuild the git workflow page after the gitlink sync note (1시간 전)
+- <a href="https://github.com/modootoday/specfold">specfold</a>: test: release notes fallback uses a version with no CHANGELOG section (1시간 전)
+- <a href="https://github.com/modootoday/specfold">specfold</a>: chore: release 0.5.0 (1시간 전)
+- <a href="https://github.com/modootoday/pmcp">pmcp</a>: chore: release pmcp 0.22.5 (1시간 전)
+- <a href="https://github.com/modootoday/pmcp">pmcp</a>: fix(git): sync moves across a directory that became a gitlink (5시간 전)
+- <a href="https://github.com/modootoday/jekyll-theme-modootoday">jekyll-theme-modootoday</a>: Spec: link five orphan ADRs to the files they govern; archive the finished P1/P2 change doc (1일 전)
+- <a href="https://github.com/modootoday/jekyll-theme-modootoday">jekyll-theme-modootoday</a>: Ruby: 3.3 is the oldest supported Ruby (3.2 is end-of-life); CI adds Ruby 4.0 as an allowed-failure Jekyll 4 entry (1일 전)
 
 </details>
 
