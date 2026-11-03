@@ -84,18 +84,18 @@ $ spec check
 
 <h2><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/modootoday/.github/main/profile/assets/sec-activity-dark.svg"><img alt="03 최근 활동 – 공개 저장소의 최근 커밋" src="https://raw.githubusercontent.com/modootoday/.github/main/profile/assets/sec-activity-light.svg" width="100%"></picture></h2>
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/modootoday/.github/main/profile/assets/activity-dark.svg"><img alt="최근 활동 – 공개 저장소 커밋 · 기준 2026-11-03 09:13 KST. 1) jekyll-theme-modootoday: feat: token bridge, site_css and preload (20분 전). 2) jekyll-theme-modootoday: docs(spec): the 1.0.0 ADR names the current version test path (1시간 전). 3) jekyll-theme-modootoday: test: snapshot and build-revision tests hold on the GitHub Pages stack (1시간 전). 4) jekyll-theme-modootoday: feat: versioned asset URLs, page-type budgets and a strict CSP audit (1시간 전). 5) devtools-public: test(doc-lifecycle): area-prefixed id samples use one-letter areas (4시간 전). 6) pmcp: chore: release pmcp 0.22.8 (5시간 전). 7) pmcp: fix(git): a returning gitlink takes over the checkout its earlier self left (6시간 전). 8) pmcp: chore: release pmcp 0.22.7 (8시간 전)." src="https://raw.githubusercontent.com/modootoday/.github/main/profile/assets/activity-light.svg" width="100%"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/modootoday/.github/main/profile/assets/activity-dark.svg"><img alt="최근 활동 – 공개 저장소 커밋 · 기준 2026-11-03 22:18 KST. 1) specfold: refactor: split the CLI session into load, warnings, location, input and resolve (1시간 전). 2) specfold: refactor: one Location per command for every path the command line names (1시간 전). 3) specfold: refactor: one paths module for lexical, relative, containment and real paths (1시간 전). 4) jekyll-theme-modootoday: refactor(docs): move every tool-written docs file under docs/generated/ (1시간 전). 5) pmcp: chore: release pmcp 0.22.11 (2시간 전). 6) pmcp: feat(hooks): follow a for loop over literal words (2시간 전). 7) specfold: release: 0.6.2 (3시간 전). 8) jekyll-theme-modootoday: refactor: regroup the directories at the 12-file limit (3시간 전)." src="https://raw.githubusercontent.com/modootoday/.github/main/profile/assets/activity-light.svg" width="100%"></picture>
 
-<details><summary>최근 활동을 글로 보기 (2026-11-03 09:13 KST 기준)</summary>
+<details><summary>최근 활동을 글로 보기 (2026-11-03 22:18 KST 기준)</summary>
 
-- <a href="https://github.com/modootoday/jekyll-theme-modootoday">jekyll-theme-modootoday</a>: feat: token bridge, site_css and preload (20분 전)
-- <a href="https://github.com/modootoday/jekyll-theme-modootoday">jekyll-theme-modootoday</a>: docs(spec): the 1.0.0 ADR names the current version test path (1시간 전)
-- <a href="https://github.com/modootoday/jekyll-theme-modootoday">jekyll-theme-modootoday</a>: test: snapshot and build-revision tests hold on the GitHub Pages stack (1시간 전)
-- <a href="https://github.com/modootoday/jekyll-theme-modootoday">jekyll-theme-modootoday</a>: feat: versioned asset URLs, page-type budgets and a strict CSP audit (1시간 전)
-- <a href="https://github.com/modootoday/devtools-public">devtools-public</a>: test(doc-lifecycle): area-prefixed id samples use one-letter areas (4시간 전)
-- <a href="https://github.com/modootoday/pmcp">pmcp</a>: chore: release pmcp 0.22.8 (5시간 전)
-- <a href="https://github.com/modootoday/pmcp">pmcp</a>: fix(git): a returning gitlink takes over the checkout its earlier self left (6시간 전)
-- <a href="https://github.com/modootoday/pmcp">pmcp</a>: chore: release pmcp 0.22.7 (8시간 전)
+- <a href="https://github.com/modootoday/specfold">specfold</a>: refactor: split the CLI session into load, warnings, location, input and resolve (1시간 전)
+- <a href="https://github.com/modootoday/specfold">specfold</a>: refactor: one Location per command for every path the command line names (1시간 전)
+- <a href="https://github.com/modootoday/specfold">specfold</a>: refactor: one paths module for lexical, relative, containment and real paths (1시간 전)
+- <a href="https://github.com/modootoday/jekyll-theme-modootoday">jekyll-theme-modootoday</a>: refactor(docs): move every tool-written docs file under docs/generated/ (1시간 전)
+- <a href="https://github.com/modootoday/pmcp">pmcp</a>: chore: release pmcp 0.22.11 (2시간 전)
+- <a href="https://github.com/modootoday/pmcp">pmcp</a>: feat(hooks): follow a for loop over literal words (2시간 전)
+- <a href="https://github.com/modootoday/specfold">specfold</a>: release: 0.6.2 (3시간 전)
+- <a href="https://github.com/modootoday/jekyll-theme-modootoday">jekyll-theme-modootoday</a>: refactor: regroup the directories at the 12-file limit (3시간 전)
 
 </details>
 
