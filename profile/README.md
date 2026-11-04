@@ -84,18 +84,18 @@ $ spec check
 
 <h2><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/modootoday/.github/main/profile/assets/sec-activity-dark.svg"><img alt="03 최근 활동 – 공개 저장소의 최근 커밋" src="https://raw.githubusercontent.com/modootoday/.github/main/profile/assets/sec-activity-light.svg" width="100%"></picture></h2>
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/modootoday/.github/main/profile/assets/activity-dark.svg"><img alt="최근 활동 – 공개 저장소 커밋 · 기준 2026-11-04 07:42 KST. 1) specfold: release: 0.7.1 (32분 전). 2) specfold: fix: context at the root, enabled-type hints, JSON lists, required fields, pending successors (32분 전). 3) jekyll-theme-modootoday: feat(code): 14/24 blocks, a 40px title bar and an icon copy button (48분 전). 4) jekyll-theme-modootoday: feat(doc): 288/45rem/240 doc columns from layout hooks (49분 전). 5) jekyll-theme-modootoday: feat(header): one 64px row at every width with a menu sheet below 64rem (1시간 전). 6) jekyll-theme-modootoday: feat(type): role-based type scale, CJK line breaking and per-language font stacks (2시간 전). 7) specfold: release: 0.7.0 (4시간 전). 8) specfold: feat(types): ignore globs, url|link fields, and type dirs in V1 and S3 (4시간 전)." src="https://raw.githubusercontent.com/modootoday/.github/main/profile/assets/activity-light.svg" width="100%"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/modootoday/.github/main/profile/assets/activity-dark.svg"><img alt="최근 활동 – 공개 저장소 커밋 · 기준 2026-11-04 12:59 KST. 1) jekyll-theme-modootoday: perf(table): load the stacked-table labels only where a variant is used (3시간 전). 2) jekyll-theme-modootoday: feat(content): wrapped, flat, scroll-aware tables (3시간 전). 3) jekyll-theme-modootoday: fix(type): Korean text breaks with break-word on the lang element (5시간 전). 4) jekyll-theme-modootoday: refactor(qa): split the keyboard audit into qa/audit/keyboard/ (5시간 전). 5) specfold: release: 0.7.1 (5시간 전). 6) specfold: fix: context at the root, enabled-type hints, JSON lists, required fields, pending successors (5시간 전). 7) specfold: release: 0.7.0 (9시간 전). 8) specfold: feat(types): ignore globs, url|link fields, and type dirs in V1 and S3 (9시간 전)." src="https://raw.githubusercontent.com/modootoday/.github/main/profile/assets/activity-light.svg" width="100%"></picture>
 
-<details><summary>최근 활동을 글로 보기 (2026-11-04 07:42 KST 기준)</summary>
+<details><summary>최근 활동을 글로 보기 (2026-11-04 12:59 KST 기준)</summary>
 
-- <a href="https://github.com/modootoday/specfold">specfold</a>: release: 0.7.1 (32분 전)
-- <a href="https://github.com/modootoday/specfold">specfold</a>: fix: context at the root, enabled-type hints, JSON lists, required fields, pending successors (32분 전)
-- <a href="https://github.com/modootoday/jekyll-theme-modootoday">jekyll-theme-modootoday</a>: feat(code): 14/24 blocks, a 40px title bar and an icon copy button (48분 전)
-- <a href="https://github.com/modootoday/jekyll-theme-modootoday">jekyll-theme-modootoday</a>: feat(doc): 288/45rem/240 doc columns from layout hooks (49분 전)
-- <a href="https://github.com/modootoday/jekyll-theme-modootoday">jekyll-theme-modootoday</a>: feat(header): one 64px row at every width with a menu sheet below 64rem (1시간 전)
-- <a href="https://github.com/modootoday/jekyll-theme-modootoday">jekyll-theme-modootoday</a>: feat(type): role-based type scale, CJK line breaking and per-language font stacks (2시간 전)
-- <a href="https://github.com/modootoday/specfold">specfold</a>: release: 0.7.0 (4시간 전)
-- <a href="https://github.com/modootoday/specfold">specfold</a>: feat(types): ignore globs, url|link fields, and type dirs in V1 and S3 (4시간 전)
+- <a href="https://github.com/modootoday/jekyll-theme-modootoday">jekyll-theme-modootoday</a>: perf(table): load the stacked-table labels only where a variant is used (3시간 전)
+- <a href="https://github.com/modootoday/jekyll-theme-modootoday">jekyll-theme-modootoday</a>: feat(content): wrapped, flat, scroll-aware tables (3시간 전)
+- <a href="https://github.com/modootoday/jekyll-theme-modootoday">jekyll-theme-modootoday</a>: fix(type): Korean text breaks with break-word on the lang element (5시간 전)
+- <a href="https://github.com/modootoday/jekyll-theme-modootoday">jekyll-theme-modootoday</a>: refactor(qa): split the keyboard audit into qa/audit/keyboard/ (5시간 전)
+- <a href="https://github.com/modootoday/specfold">specfold</a>: release: 0.7.1 (5시간 전)
+- <a href="https://github.com/modootoday/specfold">specfold</a>: fix: context at the root, enabled-type hints, JSON lists, required fields, pending successors (5시간 전)
+- <a href="https://github.com/modootoday/specfold">specfold</a>: release: 0.7.0 (9시간 전)
+- <a href="https://github.com/modootoday/specfold">specfold</a>: feat(types): ignore globs, url|link fields, and type dirs in V1 and S3 (9시간 전)
 
 </details>
 
