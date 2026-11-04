@@ -84,18 +84,18 @@ $ spec check
 
 <h2><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/modootoday/.github/main/profile/assets/sec-activity-dark.svg"><img alt="03 최근 활동 – 공개 저장소의 최근 커밋" src="https://raw.githubusercontent.com/modootoday/.github/main/profile/assets/sec-activity-light.svg" width="100%"></picture></h2>
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/modootoday/.github/main/profile/assets/activity-dark.svg"><img alt="최근 활동 – 공개 저장소 커밋 · 기준 2026-11-04 12:59 KST. 1) jekyll-theme-modootoday: perf(table): load the stacked-table labels only where a variant is used (3시간 전). 2) jekyll-theme-modootoday: feat(content): wrapped, flat, scroll-aware tables (3시간 전). 3) jekyll-theme-modootoday: fix(type): Korean text breaks with break-word on the lang element (5시간 전). 4) jekyll-theme-modootoday: refactor(qa): split the keyboard audit into qa/audit/keyboard/ (5시간 전). 5) specfold: release: 0.7.1 (5시간 전). 6) specfold: fix: context at the root, enabled-type hints, JSON lists, required fields, pending successors (5시간 전). 7) specfold: release: 0.7.0 (9시간 전). 8) specfold: feat(types): ignore globs, url|link fields, and type dirs in V1 and S3 (9시간 전)." src="https://raw.githubusercontent.com/modootoday/.github/main/profile/assets/activity-light.svg" width="100%"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/modootoday/.github/main/profile/assets/activity-dark.svg"><img alt="최근 활동 – 공개 저장소 커밋 · 기준 2026-11-04 22:30 KST. 1) pmcp: chore: release pmcp 0.23.0 (30분 전). 2) pmcp: fix(cli)!: list and models refuse stray words (48분 전). 3) pmcp: feat(cli): help and tables fit the terminal width (48분 전). 4) pmcp: feat(cli): heavy lanes and git affected join subcommand help and the envelope (48분 전). 5) jekyll-theme-modootoday: feat(jekyll): a jekyll new site builds unchanged after switching the theme (1시간 전). 6) jekyll-theme-modootoday: docs: how 1.5 pages load the theme, imports behind a CDN, shadowed core (2시간 전). 7) jekyll-theme-modootoday: refactor(js): theme scripts become ES modules with init(root) (2시간 전). 8) jekyll-theme-modootoday: perf(search): import the header search on first use (2시간 전)." src="https://raw.githubusercontent.com/modootoday/.github/main/profile/assets/activity-light.svg" width="100%"></picture>
 
-<details><summary>최근 활동을 글로 보기 (2026-11-04 12:59 KST 기준)</summary>
+<details><summary>최근 활동을 글로 보기 (2026-11-04 22:30 KST 기준)</summary>
 
-- <a href="https://github.com/modootoday/jekyll-theme-modootoday">jekyll-theme-modootoday</a>: perf(table): load the stacked-table labels only where a variant is used (3시간 전)
-- <a href="https://github.com/modootoday/jekyll-theme-modootoday">jekyll-theme-modootoday</a>: feat(content): wrapped, flat, scroll-aware tables (3시간 전)
-- <a href="https://github.com/modootoday/jekyll-theme-modootoday">jekyll-theme-modootoday</a>: fix(type): Korean text breaks with break-word on the lang element (5시간 전)
-- <a href="https://github.com/modootoday/jekyll-theme-modootoday">jekyll-theme-modootoday</a>: refactor(qa): split the keyboard audit into qa/audit/keyboard/ (5시간 전)
-- <a href="https://github.com/modootoday/specfold">specfold</a>: release: 0.7.1 (5시간 전)
-- <a href="https://github.com/modootoday/specfold">specfold</a>: fix: context at the root, enabled-type hints, JSON lists, required fields, pending successors (5시간 전)
-- <a href="https://github.com/modootoday/specfold">specfold</a>: release: 0.7.0 (9시간 전)
-- <a href="https://github.com/modootoday/specfold">specfold</a>: feat(types): ignore globs, url|link fields, and type dirs in V1 and S3 (9시간 전)
+- <a href="https://github.com/modootoday/pmcp">pmcp</a>: chore: release pmcp 0.23.0 (30분 전)
+- <a href="https://github.com/modootoday/pmcp">pmcp</a>: fix(cli)!: list and models refuse stray words (48분 전)
+- <a href="https://github.com/modootoday/pmcp">pmcp</a>: feat(cli): help and tables fit the terminal width (48분 전)
+- <a href="https://github.com/modootoday/pmcp">pmcp</a>: feat(cli): heavy lanes and git affected join subcommand help and the envelope (48분 전)
+- <a href="https://github.com/modootoday/jekyll-theme-modootoday">jekyll-theme-modootoday</a>: feat(jekyll): a jekyll new site builds unchanged after switching the theme (1시간 전)
+- <a href="https://github.com/modootoday/jekyll-theme-modootoday">jekyll-theme-modootoday</a>: docs: how 1.5 pages load the theme, imports behind a CDN, shadowed core (2시간 전)
+- <a href="https://github.com/modootoday/jekyll-theme-modootoday">jekyll-theme-modootoday</a>: refactor(js): theme scripts become ES modules with init(root) (2시간 전)
+- <a href="https://github.com/modootoday/jekyll-theme-modootoday">jekyll-theme-modootoday</a>: perf(search): import the header search on first use (2시간 전)
 
 </details>
 
