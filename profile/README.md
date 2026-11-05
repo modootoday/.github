@@ -84,18 +84,18 @@ $ spec check
 
 <h2><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/modootoday/.github/main/profile/assets/sec-activity-dark.svg"><img alt="03 최근 활동 – 공개 저장소의 최근 커밋" src="https://raw.githubusercontent.com/modootoday/.github/main/profile/assets/sec-activity-light.svg" width="100%"></picture></h2>
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/modootoday/.github/main/profile/assets/activity-dark.svg"><img alt="최근 활동 – 공개 저장소 커밋 · 기준 2026-11-05 22:44 KST. 1) jekyll-theme-modootoday: feat(starters): render the demo overlay and a guarded demo layering step (15분 전). 2) jekyll-theme-modootoday: fix(i18n): the Korean showcase names the theme 모두의오늘 테마 (42분 전). 3) jekyll-theme-modootoday: feat(showcase): a config-enabled showcase bar or pill for starter demos (53분 전). 4) jekyll-theme-modootoday: fix(a11y): every scroll region on a page has its own name (2시간 전). 5) specfold: release: 0.7.2 (3시간 전). 6) specfold: fix(D1): compile governs once per run, so big changes stay fast (3시간 전). 7) pmcp: chore: release pmcp 0.24.1 (19시간 전). 8) pmcp: perf(git): git affected caches source import facts by blob id and skips unneeded work (19시간 전)." src="https://raw.githubusercontent.com/modootoday/.github/main/profile/assets/activity-light.svg" width="100%"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/modootoday/.github/main/profile/assets/activity-dark.svg"><img alt="최근 활동 – 공개 저장소 커밋 · 기준 2026-11-06 08:03 KST. 1) jekyll-theme-modootoday: fix(blog): a list post list keeps the cover ratio so rows do not shift (9시간 전). 2) jekyll-theme-modootoday: docs(components): the Components index shows the cards-4 source (9시간 전). 3) jekyll-theme-modootoday: feat(starters): render the demo overlay and a guarded demo layering step (9시간 전). 4) jekyll-theme-modootoday: fix(i18n): the Korean showcase names the theme 모두의오늘 테마 (10시간 전). 5) specfold: release: 0.7.2 (12시간 전). 6) specfold: fix(D1): compile governs once per run, so big changes stay fast (12시간 전). 7) pmcp: chore: release pmcp 0.24.1 (1일 전). 8) pmcp: perf(git): git affected caches source import facts by blob id and skips unneeded work (1일 전)." src="https://raw.githubusercontent.com/modootoday/.github/main/profile/assets/activity-light.svg" width="100%"></picture>
 
-<details><summary>최근 활동을 글로 보기 (2026-11-05 22:44 KST 기준)</summary>
+<details><summary>최근 활동을 글로 보기 (2026-11-06 08:03 KST 기준)</summary>
 
-- <a href="https://github.com/modootoday/jekyll-theme-modootoday">jekyll-theme-modootoday</a>: feat(starters): render the demo overlay and a guarded demo layering step (15분 전)
-- <a href="https://github.com/modootoday/jekyll-theme-modootoday">jekyll-theme-modootoday</a>: fix(i18n): the Korean showcase names the theme 모두의오늘 테마 (42분 전)
-- <a href="https://github.com/modootoday/jekyll-theme-modootoday">jekyll-theme-modootoday</a>: feat(showcase): a config-enabled showcase bar or pill for starter demos (53분 전)
-- <a href="https://github.com/modootoday/jekyll-theme-modootoday">jekyll-theme-modootoday</a>: fix(a11y): every scroll region on a page has its own name (2시간 전)
-- <a href="https://github.com/modootoday/specfold">specfold</a>: release: 0.7.2 (3시간 전)
-- <a href="https://github.com/modootoday/specfold">specfold</a>: fix(D1): compile governs once per run, so big changes stay fast (3시간 전)
-- <a href="https://github.com/modootoday/pmcp">pmcp</a>: chore: release pmcp 0.24.1 (19시간 전)
-- <a href="https://github.com/modootoday/pmcp">pmcp</a>: perf(git): git affected caches source import facts by blob id and skips unneeded work (19시간 전)
+- <a href="https://github.com/modootoday/jekyll-theme-modootoday">jekyll-theme-modootoday</a>: fix(blog): a list post list keeps the cover ratio so rows do not shift (9시간 전)
+- <a href="https://github.com/modootoday/jekyll-theme-modootoday">jekyll-theme-modootoday</a>: docs(components): the Components index shows the cards-4 source (9시간 전)
+- <a href="https://github.com/modootoday/jekyll-theme-modootoday">jekyll-theme-modootoday</a>: feat(starters): render the demo overlay and a guarded demo layering step (9시간 전)
+- <a href="https://github.com/modootoday/jekyll-theme-modootoday">jekyll-theme-modootoday</a>: fix(i18n): the Korean showcase names the theme 모두의오늘 테마 (10시간 전)
+- <a href="https://github.com/modootoday/specfold">specfold</a>: release: 0.7.2 (12시간 전)
+- <a href="https://github.com/modootoday/specfold">specfold</a>: fix(D1): compile governs once per run, so big changes stay fast (12시간 전)
+- <a href="https://github.com/modootoday/pmcp">pmcp</a>: chore: release pmcp 0.24.1 (1일 전)
+- <a href="https://github.com/modootoday/pmcp">pmcp</a>: perf(git): git affected caches source import facts by blob id and skips unneeded work (1일 전)
 
 </details>
 
