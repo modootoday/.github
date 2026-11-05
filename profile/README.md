@@ -84,18 +84,18 @@ $ spec check
 
 <h2><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/modootoday/.github/main/profile/assets/sec-activity-dark.svg"><img alt="03 최근 활동 – 공개 저장소의 최근 커밋" src="https://raw.githubusercontent.com/modootoday/.github/main/profile/assets/sec-activity-light.svg" width="100%"></picture></h2>
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/modootoday/.github/main/profile/assets/activity-dark.svg"><img alt="최근 활동 – 공개 저장소 커밋 · 기준 2026-11-05 08:00 KST. 1) jekyll-theme-modootoday: feat(header): show only the logo below 30rem when the site has one (1시간 전). 2) jekyll-theme-modootoday: fix(docs): glossary terms in the new Install text, and a line-agnostic checker test (1시간 전). 3) jekyll-theme-modootoday: docs(install): a shorter GitHub Pages tab comment that fits beside the copy button (2시간 전). 4) jekyll-theme-modootoday: fix(doc): the page actions and pager follow the widened toc-off column (2시간 전). 5) pmcp: chore: release pmcp 0.24.1 (4시간 전). 6) pmcp: perf(git): git affected caches source import facts by blob id and skips unneeded work (4시간 전). 7) pmcp: feat(lease): heavy.log and usage records name the variable that carried a lease skip (4시간 전). 8) pmcp: fix(git): git affected answers from git objects at --head, never the working tree (4시간 전)." src="https://raw.githubusercontent.com/modootoday/.github/main/profile/assets/activity-light.svg" width="100%"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/modootoday/.github/main/profile/assets/activity-dark.svg"><img alt="최근 활동 – 공개 저장소 커밋 · 기준 2026-11-05 13:21 KST. 1) jekyll-theme-modootoday: release: 1.5.0 (4시간 전). 2) jekyll-theme-modootoday: fix(usability): error pages need no twin, footer columns are not landmarks, the skip link passes the sidebar (5시간 전). 3) jekyll-theme-modootoday: fix(code): the copy button never covers code (5시간 전). 4) jekyll-theme-modootoday: fix(chrome): search hints, snippet marks, the doc CTA rule and one disclosure marker (5시간 전). 5) pmcp: chore: release pmcp 0.24.1 (9시간 전). 6) pmcp: perf(git): git affected caches source import facts by blob id and skips unneeded work (9시간 전). 7) pmcp: feat(lease): heavy.log and usage records name the variable that carried a lease skip (9시간 전). 8) pmcp: fix(git): git affected answers from git objects at --head, never the working tree (9시간 전)." src="https://raw.githubusercontent.com/modootoday/.github/main/profile/assets/activity-light.svg" width="100%"></picture>
 
-<details><summary>최근 활동을 글로 보기 (2026-11-05 08:00 KST 기준)</summary>
+<details><summary>최근 활동을 글로 보기 (2026-11-05 13:21 KST 기준)</summary>
 
-- <a href="https://github.com/modootoday/jekyll-theme-modootoday">jekyll-theme-modootoday</a>: feat(header): show only the logo below 30rem when the site has one (1시간 전)
-- <a href="https://github.com/modootoday/jekyll-theme-modootoday">jekyll-theme-modootoday</a>: fix(docs): glossary terms in the new Install text, and a line-agnostic checker test (1시간 전)
-- <a href="https://github.com/modootoday/jekyll-theme-modootoday">jekyll-theme-modootoday</a>: docs(install): a shorter GitHub Pages tab comment that fits beside the copy button (2시간 전)
-- <a href="https://github.com/modootoday/jekyll-theme-modootoday">jekyll-theme-modootoday</a>: fix(doc): the page actions and pager follow the widened toc-off column (2시간 전)
-- <a href="https://github.com/modootoday/pmcp">pmcp</a>: chore: release pmcp 0.24.1 (4시간 전)
-- <a href="https://github.com/modootoday/pmcp">pmcp</a>: perf(git): git affected caches source import facts by blob id and skips unneeded work (4시간 전)
-- <a href="https://github.com/modootoday/pmcp">pmcp</a>: feat(lease): heavy.log and usage records name the variable that carried a lease skip (4시간 전)
-- <a href="https://github.com/modootoday/pmcp">pmcp</a>: fix(git): git affected answers from git objects at --head, never the working tree (4시간 전)
+- <a href="https://github.com/modootoday/jekyll-theme-modootoday">jekyll-theme-modootoday</a>: release: 1.5.0 (4시간 전)
+- <a href="https://github.com/modootoday/jekyll-theme-modootoday">jekyll-theme-modootoday</a>: fix(usability): error pages need no twin, footer columns are not landmarks, the skip link passes the sidebar (5시간 전)
+- <a href="https://github.com/modootoday/jekyll-theme-modootoday">jekyll-theme-modootoday</a>: fix(code): the copy button never covers code (5시간 전)
+- <a href="https://github.com/modootoday/jekyll-theme-modootoday">jekyll-theme-modootoday</a>: fix(chrome): search hints, snippet marks, the doc CTA rule and one disclosure marker (5시간 전)
+- <a href="https://github.com/modootoday/pmcp">pmcp</a>: chore: release pmcp 0.24.1 (9시간 전)
+- <a href="https://github.com/modootoday/pmcp">pmcp</a>: perf(git): git affected caches source import facts by blob id and skips unneeded work (9시간 전)
+- <a href="https://github.com/modootoday/pmcp">pmcp</a>: feat(lease): heavy.log and usage records name the variable that carried a lease skip (9시간 전)
+- <a href="https://github.com/modootoday/pmcp">pmcp</a>: fix(git): git affected answers from git objects at --head, never the working tree (9시간 전)
 
 </details>
 
