@@ -84,18 +84,18 @@ $ spec check
 
 <h2><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/modootoday/.github/main/profile/assets/sec-activity-dark.svg"><img alt="03 최근 활동 – 공개 저장소의 최근 커밋" src="https://raw.githubusercontent.com/modootoday/.github/main/profile/assets/sec-activity-light.svg" width="100%"></picture></h2>
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/modootoday/.github/main/profile/assets/activity-dark.svg"><img alt="최근 활동 – 공개 저장소 커밋 · 기준 2026-11-09 12:46 KST. 1) meari: chore: record patched shell source provenance (1일 전). 2) meari: chore: prepare 0.3.0 release (1일 전). 3) jekyll-theme-modootoday: fix(blog): a list post list keeps the cover ratio so rows do not shift (3일 전). 4) jekyll-theme-modootoday: docs(components): the Components index shows the cards-4 source (3일 전). 5) jekyll-theme-modootoday: feat(starters): render the demo overlay and a guarded demo layering step (3일 전). 6) jekyll-theme-modootoday: fix(i18n): the Korean showcase names the theme 모두의오늘 테마 (3일 전). 7) specfold: release: 0.7.2 (3일 전). 8) specfold: fix(D1): compile governs once per run, so big changes stay fast (3일 전)." src="https://raw.githubusercontent.com/modootoday/.github/main/profile/assets/activity-light.svg" width="100%"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/modootoday/.github/main/profile/assets/activity-dark.svg"><img alt="최근 활동 – 공개 저장소 커밋 · 기준 2026-11-09 23:44 KST. 1) jekyll-theme-modootoday: docs(spec): Cloudflare as opt-in layers over GitHub Pages, in open, free and paid tiers with presets, joins the 1.8.0 scope (10분 전). 2) jekyll-theme-modootoday: docs(spec): record the 1.8.0 scope (adr 20261109141605) (28분 전). 3) jekyll-theme-modootoday: docs(spec): record the 1.7 feature extension research, the 1.7.0 scope and the component order (30분 전). 4) jekyll-theme-modootoday: test(qa): the chart audit waits for each chart to draw before it scrolls on (56분 전). 5) meari: chore: record patched shell source provenance (1일 전). 6) meari: chore: prepare 0.3.0 release (1일 전). 7) specfold: release: 0.7.2 (4일 전). 8) specfold: fix(D1): compile governs once per run, so big changes stay fast (4일 전)." src="https://raw.githubusercontent.com/modootoday/.github/main/profile/assets/activity-light.svg" width="100%"></picture>
 
-<details><summary>최근 활동을 글로 보기 (2026-11-09 12:46 KST 기준)</summary>
+<details><summary>최근 활동을 글로 보기 (2026-11-09 23:44 KST 기준)</summary>
 
+- <a href="https://github.com/modootoday/jekyll-theme-modootoday">jekyll-theme-modootoday</a>: docs(spec): Cloudflare as opt-in layers over GitHub Pages, in open, free and paid tiers with presets, joins the 1.8.0 scope (10분 전)
+- <a href="https://github.com/modootoday/jekyll-theme-modootoday">jekyll-theme-modootoday</a>: docs(spec): record the 1.8.0 scope (adr 20261109141605) (28분 전)
+- <a href="https://github.com/modootoday/jekyll-theme-modootoday">jekyll-theme-modootoday</a>: docs(spec): record the 1.7 feature extension research, the 1.7.0 scope and the component order (30분 전)
+- <a href="https://github.com/modootoday/jekyll-theme-modootoday">jekyll-theme-modootoday</a>: test(qa): the chart audit waits for each chart to draw before it scrolls on (56분 전)
 - <a href="https://github.com/modootoday/meari">meari</a>: chore: record patched shell source provenance (1일 전)
 - <a href="https://github.com/modootoday/meari">meari</a>: chore: prepare 0.3.0 release (1일 전)
-- <a href="https://github.com/modootoday/jekyll-theme-modootoday">jekyll-theme-modootoday</a>: fix(blog): a list post list keeps the cover ratio so rows do not shift (3일 전)
-- <a href="https://github.com/modootoday/jekyll-theme-modootoday">jekyll-theme-modootoday</a>: docs(components): the Components index shows the cards-4 source (3일 전)
-- <a href="https://github.com/modootoday/jekyll-theme-modootoday">jekyll-theme-modootoday</a>: feat(starters): render the demo overlay and a guarded demo layering step (3일 전)
-- <a href="https://github.com/modootoday/jekyll-theme-modootoday">jekyll-theme-modootoday</a>: fix(i18n): the Korean showcase names the theme 모두의오늘 테마 (3일 전)
-- <a href="https://github.com/modootoday/specfold">specfold</a>: release: 0.7.2 (3일 전)
-- <a href="https://github.com/modootoday/specfold">specfold</a>: fix(D1): compile governs once per run, so big changes stay fast (3일 전)
+- <a href="https://github.com/modootoday/specfold">specfold</a>: release: 0.7.2 (4일 전)
+- <a href="https://github.com/modootoday/specfold">specfold</a>: fix(D1): compile governs once per run, so big changes stay fast (4일 전)
 
 </details>
 
