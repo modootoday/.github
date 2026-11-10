@@ -84,18 +84,18 @@ $ spec check
 
 <h2><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/modootoday/.github/main/profile/assets/sec-activity-dark.svg"><img alt="03 최근 활동 – 공개 저장소의 최근 커밋" src="https://raw.githubusercontent.com/modootoday/.github/main/profile/assets/sec-activity-light.svg" width="100%"></picture></h2>
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/modootoday/.github/main/profile/assets/activity-dark.svg"><img alt="최근 활동 – 공개 저장소 커밋 · 기준 2026-11-09 23:44 KST. 1) jekyll-theme-modootoday: docs(spec): Cloudflare as opt-in layers over GitHub Pages, in open, free and paid tiers with presets, joins the 1.8.0 scope (10분 전). 2) jekyll-theme-modootoday: docs(spec): record the 1.8.0 scope (adr 20261109141605) (28분 전). 3) jekyll-theme-modootoday: docs(spec): record the 1.7 feature extension research, the 1.7.0 scope and the component order (30분 전). 4) jekyll-theme-modootoday: test(qa): the chart audit waits for each chart to draw before it scrolls on (56분 전). 5) meari: chore: record patched shell source provenance (1일 전). 6) meari: chore: prepare 0.3.0 release (1일 전). 7) specfold: release: 0.7.2 (4일 전). 8) specfold: fix(D1): compile governs once per run, so big changes stay fast (4일 전)." src="https://raw.githubusercontent.com/modootoday/.github/main/profile/assets/activity-light.svg" width="100%"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/modootoday/.github/main/profile/assets/activity-dark.svg"><img alt="최근 활동 – 공개 저장소 커밋 · 기준 2026-11-10 22:58 KST. 1) pmcp: chore: release pmcp 0.26.1 (2시간 전). 2) pmcp: fix(lease): a caller's deadline no longer turns pmcp heavy's answer into 0 (4시간 전). 3) jekyll-theme-modootoday: test(audit): run axe only after the restored 1024px reaches the page scripts (4시간 전). 4) jekyll-theme-modootoday: chore(starters): set the theme's mark as each starter's site icon (10시간 전). 5) jekyll-theme-modootoday: chore(starters): link the Command line page from the starter README instead of copying its tables (10시간 전). 6) jekyll-theme-modootoday: build(deps): update KaTeX to 0.19.1 (10시간 전). 7) specfold: release: 0.8.1 (12시간 전). 8) specfold: test: the export plugin helpers are Unix-only, like the tests that use them (12시간 전)." src="https://raw.githubusercontent.com/modootoday/.github/main/profile/assets/activity-light.svg" width="100%"></picture>
 
-<details><summary>최근 활동을 글로 보기 (2026-11-09 23:44 KST 기준)</summary>
+<details><summary>최근 활동을 글로 보기 (2026-11-10 22:58 KST 기준)</summary>
 
-- <a href="https://github.com/modootoday/jekyll-theme-modootoday">jekyll-theme-modootoday</a>: docs(spec): Cloudflare as opt-in layers over GitHub Pages, in open, free and paid tiers with presets, joins the 1.8.0 scope (10분 전)
-- <a href="https://github.com/modootoday/jekyll-theme-modootoday">jekyll-theme-modootoday</a>: docs(spec): record the 1.8.0 scope (adr 20261109141605) (28분 전)
-- <a href="https://github.com/modootoday/jekyll-theme-modootoday">jekyll-theme-modootoday</a>: docs(spec): record the 1.7 feature extension research, the 1.7.0 scope and the component order (30분 전)
-- <a href="https://github.com/modootoday/jekyll-theme-modootoday">jekyll-theme-modootoday</a>: test(qa): the chart audit waits for each chart to draw before it scrolls on (56분 전)
-- <a href="https://github.com/modootoday/meari">meari</a>: chore: record patched shell source provenance (1일 전)
-- <a href="https://github.com/modootoday/meari">meari</a>: chore: prepare 0.3.0 release (1일 전)
-- <a href="https://github.com/modootoday/specfold">specfold</a>: release: 0.7.2 (4일 전)
-- <a href="https://github.com/modootoday/specfold">specfold</a>: fix(D1): compile governs once per run, so big changes stay fast (4일 전)
+- <a href="https://github.com/modootoday/pmcp">pmcp</a>: chore: release pmcp 0.26.1 (2시간 전)
+- <a href="https://github.com/modootoday/pmcp">pmcp</a>: fix(lease): a caller's deadline no longer turns pmcp heavy's answer into 0 (4시간 전)
+- <a href="https://github.com/modootoday/jekyll-theme-modootoday">jekyll-theme-modootoday</a>: test(audit): run axe only after the restored 1024px reaches the page scripts (4시간 전)
+- <a href="https://github.com/modootoday/jekyll-theme-modootoday">jekyll-theme-modootoday</a>: chore(starters): set the theme's mark as each starter's site icon (10시간 전)
+- <a href="https://github.com/modootoday/jekyll-theme-modootoday">jekyll-theme-modootoday</a>: chore(starters): link the Command line page from the starter README instead of copying its tables (10시간 전)
+- <a href="https://github.com/modootoday/jekyll-theme-modootoday">jekyll-theme-modootoday</a>: build(deps): update KaTeX to 0.19.1 (10시간 전)
+- <a href="https://github.com/modootoday/specfold">specfold</a>: release: 0.8.1 (12시간 전)
+- <a href="https://github.com/modootoday/specfold">specfold</a>: test: the export plugin helpers are Unix-only, like the tests that use them (12시간 전)
 
 </details>
 
