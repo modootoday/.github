@@ -1,56 +1,56 @@
 {
-  "activity": "최근 활동 – 공개 저장소 커밋 · 기준 2026-11-10 22:58 KST. 1) pmcp: chore: release pmcp 0.26.1 (2시간 전). 2) pmcp: fix(lease): a caller's deadline no longer turns pmcp heavy's answer into 0 (4시간 전). 3) jekyll-theme-modootoday: test(audit): run axe only after the restored 1024px reaches the page scripts (4시간 전). 4) jekyll-theme-modootoday: chore(starters): set the theme's mark as each starter's site icon (10시간 전). 5) jekyll-theme-modootoday: chore(starters): link the Command line page from the starter README instead of copying its tables (10시간 전). 6) jekyll-theme-modootoday: build(deps): update KaTeX to 0.19.1 (10시간 전). 7) specfold: release: 0.8.1 (12시간 전). 8) specfold: test: the export plugin helpers are Unix-only, like the tests that use them (12시간 전).",
+  "activity": "최근 활동 – 공개 저장소 커밋 · 기준 2026-11-11 07:40 KST. 1) jekyll-theme-modootoday: fix(pwa): the open page loads the update notice only when the new worker waits for it (1시간 전). 2) jekyll-theme-modootoday: fix(pwa): keep the worker within its line limit and print Chromium's worker versions on a flow timeout (2시간 전). 3) jekyll-theme-modootoday: fix(pwa): a worker on its way out never recreates the caches a kill or a newer worker deleted (3시간 전). 4) pmcp: chore: release pmcp 0.27.0 (4시간 전). 5) jekyll-theme-modootoday: test(css): the PWA notice sheet loads on demand in both css modes (4시간 전). 6) pmcp: feat(host): pmcp host io measure refuses while qos holds vrate to the current model (4시간 전). 7) pmcp: feat(host): pmcp host io measure, plan and doctor fit the kernel's io.cost model to the disk (4시간 전). 8) pmcp: chore: release pmcp 0.26.1 (10시간 전).",
   "activity_items": [
+    {
+      "repo": "jekyll-theme-modootoday",
+      "url": "https://github.com/modootoday/jekyll-theme-modootoday",
+      "msg": "fix(pwa): the open page loads the update notice only when the new worker waits for it",
+      "when": "1시간 전"
+    },
+    {
+      "repo": "jekyll-theme-modootoday",
+      "url": "https://github.com/modootoday/jekyll-theme-modootoday",
+      "msg": "fix(pwa): keep the worker within its line limit and print Chromium's worker versions on a flow timeout",
+      "when": "2시간 전"
+    },
+    {
+      "repo": "jekyll-theme-modootoday",
+      "url": "https://github.com/modootoday/jekyll-theme-modootoday",
+      "msg": "fix(pwa): a worker on its way out never recreates the caches a kill or a newer worker deleted",
+      "when": "3시간 전"
+    },
+    {
+      "repo": "pmcp",
+      "url": "https://github.com/modootoday/pmcp",
+      "msg": "chore: release pmcp 0.27.0",
+      "when": "4시간 전"
+    },
+    {
+      "repo": "jekyll-theme-modootoday",
+      "url": "https://github.com/modootoday/jekyll-theme-modootoday",
+      "msg": "test(css): the PWA notice sheet loads on demand in both css modes",
+      "when": "4시간 전"
+    },
+    {
+      "repo": "pmcp",
+      "url": "https://github.com/modootoday/pmcp",
+      "msg": "feat(host): pmcp host io measure refuses while qos holds vrate to the current model",
+      "when": "4시간 전"
+    },
+    {
+      "repo": "pmcp",
+      "url": "https://github.com/modootoday/pmcp",
+      "msg": "feat(host): pmcp host io measure, plan and doctor fit the kernel's io.cost model to the disk",
+      "when": "4시간 전"
+    },
     {
       "repo": "pmcp",
       "url": "https://github.com/modootoday/pmcp",
       "msg": "chore: release pmcp 0.26.1",
-      "when": "2시간 전"
-    },
-    {
-      "repo": "pmcp",
-      "url": "https://github.com/modootoday/pmcp",
-      "msg": "fix(lease): a caller's deadline no longer turns pmcp heavy's answer into 0",
-      "when": "4시간 전"
-    },
-    {
-      "repo": "jekyll-theme-modootoday",
-      "url": "https://github.com/modootoday/jekyll-theme-modootoday",
-      "msg": "test(audit): run axe only after the restored 1024px reaches the page scripts",
-      "when": "4시간 전"
-    },
-    {
-      "repo": "jekyll-theme-modootoday",
-      "url": "https://github.com/modootoday/jekyll-theme-modootoday",
-      "msg": "chore(starters): set the theme's mark as each starter's site icon",
       "when": "10시간 전"
-    },
-    {
-      "repo": "jekyll-theme-modootoday",
-      "url": "https://github.com/modootoday/jekyll-theme-modootoday",
-      "msg": "chore(starters): link the Command line page from the starter README instead of copying its tables",
-      "when": "10시간 전"
-    },
-    {
-      "repo": "jekyll-theme-modootoday",
-      "url": "https://github.com/modootoday/jekyll-theme-modootoday",
-      "msg": "build(deps): update KaTeX to 0.19.1",
-      "when": "10시간 전"
-    },
-    {
-      "repo": "specfold",
-      "url": "https://github.com/modootoday/specfold",
-      "msg": "release: 0.8.1",
-      "when": "12시간 전"
-    },
-    {
-      "repo": "specfold",
-      "url": "https://github.com/modootoday/specfold",
-      "msg": "test: the export plugin helpers are Unix-only, like the tests that use them",
-      "when": "12시간 전"
     }
   ],
-  "activity_stamp": "2026-11-10 22:58 KST",
+  "activity_stamp": "2026-11-11 07:40 KST",
   "card-biz": "모두의오늘 비즈 (대상: 사업자 · 대행사) – 브랜드의 오늘을, 근거가 남는 운영 결과로.. 제작 · 검토 · 승인 · 발행 · 고객사별 데이터 분리. 시작하기: biz.modoo.today",
   "card-codex": "SOLA Codex (대상: 데이터 · 분석) – 콘텐츠 품질 점수를 계산하는 방식을 공개한 문서. 가이드북 · 분류 체계 · 용어집. 읽어보기: codex.datalab.tools",
   "card-datalab": "데이터랩툴즈 헬퍼 (대상: 창작자 · 마케터) – 보던 화면을 분석 도구로 바꾸는 브라우저 헬퍼. 위젯 143개 · AIO 사이드패널 · MCP 브리지. 설치하기: datalab.tools",

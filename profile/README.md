@@ -84,18 +84,18 @@ $ spec check
 
 <h2><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/modootoday/.github/main/profile/assets/sec-activity-dark.svg"><img alt="03 최근 활동 – 공개 저장소의 최근 커밋" src="https://raw.githubusercontent.com/modootoday/.github/main/profile/assets/sec-activity-light.svg" width="100%"></picture></h2>
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/modootoday/.github/main/profile/assets/activity-dark.svg"><img alt="최근 활동 – 공개 저장소 커밋 · 기준 2026-11-10 22:58 KST. 1) pmcp: chore: release pmcp 0.26.1 (2시간 전). 2) pmcp: fix(lease): a caller's deadline no longer turns pmcp heavy's answer into 0 (4시간 전). 3) jekyll-theme-modootoday: test(audit): run axe only after the restored 1024px reaches the page scripts (4시간 전). 4) jekyll-theme-modootoday: chore(starters): set the theme's mark as each starter's site icon (10시간 전). 5) jekyll-theme-modootoday: chore(starters): link the Command line page from the starter README instead of copying its tables (10시간 전). 6) jekyll-theme-modootoday: build(deps): update KaTeX to 0.19.1 (10시간 전). 7) specfold: release: 0.8.1 (12시간 전). 8) specfold: test: the export plugin helpers are Unix-only, like the tests that use them (12시간 전)." src="https://raw.githubusercontent.com/modootoday/.github/main/profile/assets/activity-light.svg" width="100%"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/modootoday/.github/main/profile/assets/activity-dark.svg"><img alt="최근 활동 – 공개 저장소 커밋 · 기준 2026-11-11 07:40 KST. 1) jekyll-theme-modootoday: fix(pwa): the open page loads the update notice only when the new worker waits for it (1시간 전). 2) jekyll-theme-modootoday: fix(pwa): keep the worker within its line limit and print Chromium's worker versions on a flow timeout (2시간 전). 3) jekyll-theme-modootoday: fix(pwa): a worker on its way out never recreates the caches a kill or a newer worker deleted (3시간 전). 4) pmcp: chore: release pmcp 0.27.0 (4시간 전). 5) jekyll-theme-modootoday: test(css): the PWA notice sheet loads on demand in both css modes (4시간 전). 6) pmcp: feat(host): pmcp host io measure refuses while qos holds vrate to the current model (4시간 전). 7) pmcp: feat(host): pmcp host io measure, plan and doctor fit the kernel's io.cost model to the disk (4시간 전). 8) pmcp: chore: release pmcp 0.26.1 (10시간 전)." src="https://raw.githubusercontent.com/modootoday/.github/main/profile/assets/activity-light.svg" width="100%"></picture>
 
-<details><summary>최근 활동을 글로 보기 (2026-11-10 22:58 KST 기준)</summary>
+<details><summary>최근 활동을 글로 보기 (2026-11-11 07:40 KST 기준)</summary>
 
-- <a href="https://github.com/modootoday/pmcp">pmcp</a>: chore: release pmcp 0.26.1 (2시간 전)
-- <a href="https://github.com/modootoday/pmcp">pmcp</a>: fix(lease): a caller's deadline no longer turns pmcp heavy's answer into 0 (4시간 전)
-- <a href="https://github.com/modootoday/jekyll-theme-modootoday">jekyll-theme-modootoday</a>: test(audit): run axe only after the restored 1024px reaches the page scripts (4시간 전)
-- <a href="https://github.com/modootoday/jekyll-theme-modootoday">jekyll-theme-modootoday</a>: chore(starters): set the theme's mark as each starter's site icon (10시간 전)
-- <a href="https://github.com/modootoday/jekyll-theme-modootoday">jekyll-theme-modootoday</a>: chore(starters): link the Command line page from the starter README instead of copying its tables (10시간 전)
-- <a href="https://github.com/modootoday/jekyll-theme-modootoday">jekyll-theme-modootoday</a>: build(deps): update KaTeX to 0.19.1 (10시간 전)
-- <a href="https://github.com/modootoday/specfold">specfold</a>: release: 0.8.1 (12시간 전)
-- <a href="https://github.com/modootoday/specfold">specfold</a>: test: the export plugin helpers are Unix-only, like the tests that use them (12시간 전)
+- <a href="https://github.com/modootoday/jekyll-theme-modootoday">jekyll-theme-modootoday</a>: fix(pwa): the open page loads the update notice only when the new worker waits for it (1시간 전)
+- <a href="https://github.com/modootoday/jekyll-theme-modootoday">jekyll-theme-modootoday</a>: fix(pwa): keep the worker within its line limit and print Chromium's worker versions on a flow timeout (2시간 전)
+- <a href="https://github.com/modootoday/jekyll-theme-modootoday">jekyll-theme-modootoday</a>: fix(pwa): a worker on its way out never recreates the caches a kill or a newer worker deleted (3시간 전)
+- <a href="https://github.com/modootoday/pmcp">pmcp</a>: chore: release pmcp 0.27.0 (4시간 전)
+- <a href="https://github.com/modootoday/jekyll-theme-modootoday">jekyll-theme-modootoday</a>: test(css): the PWA notice sheet loads on demand in both css modes (4시간 전)
+- <a href="https://github.com/modootoday/pmcp">pmcp</a>: feat(host): pmcp host io measure refuses while qos holds vrate to the current model (4시간 전)
+- <a href="https://github.com/modootoday/pmcp">pmcp</a>: feat(host): pmcp host io measure, plan and doctor fit the kernel's io.cost model to the disk (4시간 전)
+- <a href="https://github.com/modootoday/pmcp">pmcp</a>: chore: release pmcp 0.26.1 (10시간 전)
 
 </details>
 
