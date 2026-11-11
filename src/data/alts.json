@@ -1,56 +1,56 @@
 {
-  "activity": "최근 활동 – 공개 저장소 커밋 · 기준 2026-11-11 22:15 KST. 1) jekyll-theme-modootoday: fix(header): the first frames show the whole header when the stylesheets are cached (8시간 전). 2) jekyll-theme-modootoday: docs: turn the docs site worker back on after the release drill (9시간 전). 3) jekyll-theme-modootoday: docs: switch the docs site worker to its kill switch for the release drill (9시간 전). 4) jekyll-theme-modootoday: test(audit): the first-paint check blocks service workers (10시간 전). 5) pmcp: chore: release pmcp 0.27.0 (18시간 전). 6) pmcp: feat(host): pmcp host io measure refuses while qos holds vrate to the current model (19시간 전). 7) pmcp: feat(host): pmcp host io measure, plan and doctor fit the kernel's io.cost model to the disk (19시간 전). 8) pmcp: chore: release pmcp 0.26.1 (1일 전).",
+  "activity": "최근 활동 – 공개 저장소 커밋 · 기준 2026-11-12 08:52 KST. 1) jekyll-theme-modootoday: refactor(check): the stub checks move to build/stubs/ (1시간 전). 2) jekyll-theme-modootoday: docs(changelog): regenerate [Unreleased] from the commits (3시간 전). 3) jekyll-theme-modootoday: feat(figure): a diagram picks its minimum width, and translations draw their own pair (4시간 전). 4) pmcp: chore: release pmcp 0.28.1 (4시간 전). 5) pmcp: test(git): the refuse delivery test compares trees, since a replay may change the commit hash (5시간 전). 6) jekyll-theme-modootoday: docs: the anchor link's name shows its placeholder in brackets, not as a tag (5시간 전). 7) pmcp: chore: release pmcp 0.28.0 (5시간 전). 8) pmcp: feat(git): dir_to_gitlink = \"refuse\" holds a sync that would turn a directory into a gitlink (6시간 전).",
   "activity_items": [
     {
       "repo": "jekyll-theme-modootoday",
       "url": "https://github.com/modootoday/jekyll-theme-modootoday",
-      "msg": "fix(header): the first frames show the whole header when the stylesheets are cached",
-      "when": "8시간 전"
+      "msg": "refactor(check): the stub checks move to build/stubs/",
+      "when": "1시간 전"
     },
     {
       "repo": "jekyll-theme-modootoday",
       "url": "https://github.com/modootoday/jekyll-theme-modootoday",
-      "msg": "docs: turn the docs site worker back on after the release drill",
-      "when": "9시간 전"
+      "msg": "docs(changelog): regenerate [Unreleased] from the commits",
+      "when": "3시간 전"
     },
     {
       "repo": "jekyll-theme-modootoday",
       "url": "https://github.com/modootoday/jekyll-theme-modootoday",
-      "msg": "docs: switch the docs site worker to its kill switch for the release drill",
-      "when": "9시간 전"
+      "msg": "feat(figure): a diagram picks its minimum width, and translations draw their own pair",
+      "when": "4시간 전"
+    },
+    {
+      "repo": "pmcp",
+      "url": "https://github.com/modootoday/pmcp",
+      "msg": "chore: release pmcp 0.28.1",
+      "when": "4시간 전"
+    },
+    {
+      "repo": "pmcp",
+      "url": "https://github.com/modootoday/pmcp",
+      "msg": "test(git): the refuse delivery test compares trees, since a replay may change the commit hash",
+      "when": "5시간 전"
     },
     {
       "repo": "jekyll-theme-modootoday",
       "url": "https://github.com/modootoday/jekyll-theme-modootoday",
-      "msg": "test(audit): the first-paint check blocks service workers",
-      "when": "10시간 전"
+      "msg": "docs: the anchor link's name shows its placeholder in brackets, not as a tag",
+      "when": "5시간 전"
     },
     {
       "repo": "pmcp",
       "url": "https://github.com/modootoday/pmcp",
-      "msg": "chore: release pmcp 0.27.0",
-      "when": "18시간 전"
+      "msg": "chore: release pmcp 0.28.0",
+      "when": "5시간 전"
     },
     {
       "repo": "pmcp",
       "url": "https://github.com/modootoday/pmcp",
-      "msg": "feat(host): pmcp host io measure refuses while qos holds vrate to the current model",
-      "when": "19시간 전"
-    },
-    {
-      "repo": "pmcp",
-      "url": "https://github.com/modootoday/pmcp",
-      "msg": "feat(host): pmcp host io measure, plan and doctor fit the kernel's io.cost model to the disk",
-      "when": "19시간 전"
-    },
-    {
-      "repo": "pmcp",
-      "url": "https://github.com/modootoday/pmcp",
-      "msg": "chore: release pmcp 0.26.1",
-      "when": "1일 전"
+      "msg": "feat(git): dir_to_gitlink = \"refuse\" holds a sync that would turn a directory into a gitlink",
+      "when": "6시간 전"
     }
   ],
-  "activity_stamp": "2026-11-11 22:15 KST",
+  "activity_stamp": "2026-11-12 08:52 KST",
   "card-biz": "모두의오늘 비즈 (대상: 사업자 · 대행사) – 브랜드의 오늘을, 근거가 남는 운영 결과로.. 제작 · 검토 · 승인 · 발행 · 고객사별 데이터 분리. 시작하기: biz.modoo.today",
   "card-codex": "SOLA Codex (대상: 데이터 · 분석) – 콘텐츠 품질 점수를 계산하는 방식을 공개한 문서. 가이드북 · 분류 체계 · 용어집. 읽어보기: codex.datalab.tools",
   "card-datalab": "데이터랩툴즈 헬퍼 (대상: 창작자 · 마케터) – 보던 화면을 분석 도구로 바꾸는 브라우저 헬퍼. 위젯 143개 · AIO 사이드패널 · MCP 브리지. 설치하기: datalab.tools",

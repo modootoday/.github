@@ -84,18 +84,18 @@ $ spec check
 
 <h2><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/modootoday/.github/main/profile/assets/sec-activity-dark.svg"><img alt="03 최근 활동 – 공개 저장소의 최근 커밋" src="https://raw.githubusercontent.com/modootoday/.github/main/profile/assets/sec-activity-light.svg" width="100%"></picture></h2>
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/modootoday/.github/main/profile/assets/activity-dark.svg"><img alt="최근 활동 – 공개 저장소 커밋 · 기준 2026-11-11 22:15 KST. 1) jekyll-theme-modootoday: fix(header): the first frames show the whole header when the stylesheets are cached (8시간 전). 2) jekyll-theme-modootoday: docs: turn the docs site worker back on after the release drill (9시간 전). 3) jekyll-theme-modootoday: docs: switch the docs site worker to its kill switch for the release drill (9시간 전). 4) jekyll-theme-modootoday: test(audit): the first-paint check blocks service workers (10시간 전). 5) pmcp: chore: release pmcp 0.27.0 (18시간 전). 6) pmcp: feat(host): pmcp host io measure refuses while qos holds vrate to the current model (19시간 전). 7) pmcp: feat(host): pmcp host io measure, plan and doctor fit the kernel's io.cost model to the disk (19시간 전). 8) pmcp: chore: release pmcp 0.26.1 (1일 전)." src="https://raw.githubusercontent.com/modootoday/.github/main/profile/assets/activity-light.svg" width="100%"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/modootoday/.github/main/profile/assets/activity-dark.svg"><img alt="최근 활동 – 공개 저장소 커밋 · 기준 2026-11-12 08:52 KST. 1) jekyll-theme-modootoday: refactor(check): the stub checks move to build/stubs/ (1시간 전). 2) jekyll-theme-modootoday: docs(changelog): regenerate [Unreleased] from the commits (3시간 전). 3) jekyll-theme-modootoday: feat(figure): a diagram picks its minimum width, and translations draw their own pair (4시간 전). 4) pmcp: chore: release pmcp 0.28.1 (4시간 전). 5) pmcp: test(git): the refuse delivery test compares trees, since a replay may change the commit hash (5시간 전). 6) jekyll-theme-modootoday: docs: the anchor link's name shows its placeholder in brackets, not as a tag (5시간 전). 7) pmcp: chore: release pmcp 0.28.0 (5시간 전). 8) pmcp: feat(git): dir_to_gitlink = &quot;refuse&quot; holds a sync that would turn a directory into a gitlink (6시간 전)." src="https://raw.githubusercontent.com/modootoday/.github/main/profile/assets/activity-light.svg" width="100%"></picture>
 
-<details><summary>최근 활동을 글로 보기 (2026-11-11 22:15 KST 기준)</summary>
+<details><summary>최근 활동을 글로 보기 (2026-11-12 08:52 KST 기준)</summary>
 
-- <a href="https://github.com/modootoday/jekyll-theme-modootoday">jekyll-theme-modootoday</a>: fix(header): the first frames show the whole header when the stylesheets are cached (8시간 전)
-- <a href="https://github.com/modootoday/jekyll-theme-modootoday">jekyll-theme-modootoday</a>: docs: turn the docs site worker back on after the release drill (9시간 전)
-- <a href="https://github.com/modootoday/jekyll-theme-modootoday">jekyll-theme-modootoday</a>: docs: switch the docs site worker to its kill switch for the release drill (9시간 전)
-- <a href="https://github.com/modootoday/jekyll-theme-modootoday">jekyll-theme-modootoday</a>: test(audit): the first-paint check blocks service workers (10시간 전)
-- <a href="https://github.com/modootoday/pmcp">pmcp</a>: chore: release pmcp 0.27.0 (18시간 전)
-- <a href="https://github.com/modootoday/pmcp">pmcp</a>: feat(host): pmcp host io measure refuses while qos holds vrate to the current model (19시간 전)
-- <a href="https://github.com/modootoday/pmcp">pmcp</a>: feat(host): pmcp host io measure, plan and doctor fit the kernel's io.cost model to the disk (19시간 전)
-- <a href="https://github.com/modootoday/pmcp">pmcp</a>: chore: release pmcp 0.26.1 (1일 전)
+- <a href="https://github.com/modootoday/jekyll-theme-modootoday">jekyll-theme-modootoday</a>: refactor(check): the stub checks move to build/stubs/ (1시간 전)
+- <a href="https://github.com/modootoday/jekyll-theme-modootoday">jekyll-theme-modootoday</a>: docs(changelog): regenerate [Unreleased] from the commits (3시간 전)
+- <a href="https://github.com/modootoday/jekyll-theme-modootoday">jekyll-theme-modootoday</a>: feat(figure): a diagram picks its minimum width, and translations draw their own pair (4시간 전)
+- <a href="https://github.com/modootoday/pmcp">pmcp</a>: chore: release pmcp 0.28.1 (4시간 전)
+- <a href="https://github.com/modootoday/pmcp">pmcp</a>: test(git): the refuse delivery test compares trees, since a replay may change the commit hash (5시간 전)
+- <a href="https://github.com/modootoday/jekyll-theme-modootoday">jekyll-theme-modootoday</a>: docs: the anchor link's name shows its placeholder in brackets, not as a tag (5시간 전)
+- <a href="https://github.com/modootoday/pmcp">pmcp</a>: chore: release pmcp 0.28.0 (5시간 전)
+- <a href="https://github.com/modootoday/pmcp">pmcp</a>: feat(git): dir_to_gitlink = "refuse" holds a sync that would turn a directory into a gitlink (6시간 전)
 
 </details>
 
