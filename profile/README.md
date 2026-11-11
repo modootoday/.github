@@ -84,18 +84,18 @@ $ spec check
 
 <h2><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/modootoday/.github/main/profile/assets/sec-activity-dark.svg"><img alt="03 최근 활동 – 공개 저장소의 최근 커밋" src="https://raw.githubusercontent.com/modootoday/.github/main/profile/assets/sec-activity-light.svg" width="100%"></picture></h2>
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/modootoday/.github/main/profile/assets/activity-dark.svg"><img alt="최근 활동 – 공개 저장소 커밋 · 기준 2026-11-11 12:51 KST. 1) jekyll-theme-modootoday: test(audit): the first-paint check blocks service workers (52분 전). 2) jekyll-theme-modootoday: docs: a recipe for telling readers about updates (2시간 전). 3) jekyll-theme-modootoday: chore(starters): move the starters to their release rebuilds (2시간 전). 4) jekyll-theme-modootoday: feat(starters): the Pages workflow rebuilds the site when a release is published (2시간 전). 5) pmcp: chore: release pmcp 0.27.0 (9시간 전). 6) pmcp: feat(host): pmcp host io measure refuses while qos holds vrate to the current model (10시간 전). 7) pmcp: feat(host): pmcp host io measure, plan and doctor fit the kernel's io.cost model to the disk (10시간 전). 8) pmcp: chore: release pmcp 0.26.1 (16시간 전)." src="https://raw.githubusercontent.com/modootoday/.github/main/profile/assets/activity-light.svg" width="100%"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/modootoday/.github/main/profile/assets/activity-dark.svg"><img alt="최근 활동 – 공개 저장소 커밋 · 기준 2026-11-11 22:15 KST. 1) jekyll-theme-modootoday: fix(header): the first frames show the whole header when the stylesheets are cached (8시간 전). 2) jekyll-theme-modootoday: docs: turn the docs site worker back on after the release drill (9시간 전). 3) jekyll-theme-modootoday: docs: switch the docs site worker to its kill switch for the release drill (9시간 전). 4) jekyll-theme-modootoday: test(audit): the first-paint check blocks service workers (10시간 전). 5) pmcp: chore: release pmcp 0.27.0 (18시간 전). 6) pmcp: feat(host): pmcp host io measure refuses while qos holds vrate to the current model (19시간 전). 7) pmcp: feat(host): pmcp host io measure, plan and doctor fit the kernel's io.cost model to the disk (19시간 전). 8) pmcp: chore: release pmcp 0.26.1 (1일 전)." src="https://raw.githubusercontent.com/modootoday/.github/main/profile/assets/activity-light.svg" width="100%"></picture>
 
-<details><summary>최근 활동을 글로 보기 (2026-11-11 12:51 KST 기준)</summary>
+<details><summary>최근 활동을 글로 보기 (2026-11-11 22:15 KST 기준)</summary>
 
-- <a href="https://github.com/modootoday/jekyll-theme-modootoday">jekyll-theme-modootoday</a>: test(audit): the first-paint check blocks service workers (52분 전)
-- <a href="https://github.com/modootoday/jekyll-theme-modootoday">jekyll-theme-modootoday</a>: docs: a recipe for telling readers about updates (2시간 전)
-- <a href="https://github.com/modootoday/jekyll-theme-modootoday">jekyll-theme-modootoday</a>: chore(starters): move the starters to their release rebuilds (2시간 전)
-- <a href="https://github.com/modootoday/jekyll-theme-modootoday">jekyll-theme-modootoday</a>: feat(starters): the Pages workflow rebuilds the site when a release is published (2시간 전)
-- <a href="https://github.com/modootoday/pmcp">pmcp</a>: chore: release pmcp 0.27.0 (9시간 전)
-- <a href="https://github.com/modootoday/pmcp">pmcp</a>: feat(host): pmcp host io measure refuses while qos holds vrate to the current model (10시간 전)
-- <a href="https://github.com/modootoday/pmcp">pmcp</a>: feat(host): pmcp host io measure, plan and doctor fit the kernel's io.cost model to the disk (10시간 전)
-- <a href="https://github.com/modootoday/pmcp">pmcp</a>: chore: release pmcp 0.26.1 (16시간 전)
+- <a href="https://github.com/modootoday/jekyll-theme-modootoday">jekyll-theme-modootoday</a>: fix(header): the first frames show the whole header when the stylesheets are cached (8시간 전)
+- <a href="https://github.com/modootoday/jekyll-theme-modootoday">jekyll-theme-modootoday</a>: docs: turn the docs site worker back on after the release drill (9시간 전)
+- <a href="https://github.com/modootoday/jekyll-theme-modootoday">jekyll-theme-modootoday</a>: docs: switch the docs site worker to its kill switch for the release drill (9시간 전)
+- <a href="https://github.com/modootoday/jekyll-theme-modootoday">jekyll-theme-modootoday</a>: test(audit): the first-paint check blocks service workers (10시간 전)
+- <a href="https://github.com/modootoday/pmcp">pmcp</a>: chore: release pmcp 0.27.0 (18시간 전)
+- <a href="https://github.com/modootoday/pmcp">pmcp</a>: feat(host): pmcp host io measure refuses while qos holds vrate to the current model (19시간 전)
+- <a href="https://github.com/modootoday/pmcp">pmcp</a>: feat(host): pmcp host io measure, plan and doctor fit the kernel's io.cost model to the disk (19시간 전)
+- <a href="https://github.com/modootoday/pmcp">pmcp</a>: chore: release pmcp 0.26.1 (1일 전)
 
 </details>
 
