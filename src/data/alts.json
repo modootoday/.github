@@ -1,56 +1,56 @@
 {
-  "activity": "최근 활동 – 공개 저장소 커밋 · 기준 2026-11-12 08:52 KST. 1) jekyll-theme-modootoday: refactor(check): the stub checks move to build/stubs/ (1시간 전). 2) jekyll-theme-modootoday: docs(changelog): regenerate [Unreleased] from the commits (3시간 전). 3) jekyll-theme-modootoday: feat(figure): a diagram picks its minimum width, and translations draw their own pair (4시간 전). 4) pmcp: chore: release pmcp 0.28.1 (4시간 전). 5) pmcp: test(git): the refuse delivery test compares trees, since a replay may change the commit hash (5시간 전). 6) jekyll-theme-modootoday: docs: the anchor link's name shows its placeholder in brackets, not as a tag (5시간 전). 7) pmcp: chore: release pmcp 0.28.0 (5시간 전). 8) pmcp: feat(git): dir_to_gitlink = \"refuse\" holds a sync that would turn a directory into a gitlink (6시간 전).",
+  "activity": "최근 활동 – 공개 저장소 커밋 · 기준 2026-11-12 13:58 KST. 1) jekyll-theme-modootoday: feat(meta): edit_url: auto and a built-from-commit link from site.github (2시간 전). 2) pmcp: chore: release pmcp 0.29.0 (2시간 전). 3) pmcp: fix(git): sync fetches a submodule's missing pin and follows clean, pushed submodules that lagged (3시간 전). 4) pmcp: feat(git): dir_to_gitlink_main_hint names the main checkout's own adoption step (3시간 전). 5) jekyll-theme-modootoday: test(theme): the feed and archive tests move to test/theme/blog/ (3시간 전). 6) jekyll-theme-modootoday: feat(feed): feed discovery and Subscribe links on blog, author and archive pages (4시간 전). 7) jekyll-theme-modootoday: test(check): the --links tests skip without nokogiri, and pin the warning there (4시간 전). 8) pmcp: chore: release pmcp 0.28.1 (9시간 전).",
   "activity_items": [
     {
       "repo": "jekyll-theme-modootoday",
       "url": "https://github.com/modootoday/jekyll-theme-modootoday",
-      "msg": "refactor(check): the stub checks move to build/stubs/",
-      "when": "1시간 전"
+      "msg": "feat(meta): edit_url: auto and a built-from-commit link from site.github",
+      "when": "2시간 전"
     },
     {
-      "repo": "jekyll-theme-modootoday",
-      "url": "https://github.com/modootoday/jekyll-theme-modootoday",
-      "msg": "docs(changelog): regenerate [Unreleased] from the commits",
+      "repo": "pmcp",
+      "url": "https://github.com/modootoday/pmcp",
+      "msg": "chore: release pmcp 0.29.0",
+      "when": "2시간 전"
+    },
+    {
+      "repo": "pmcp",
+      "url": "https://github.com/modootoday/pmcp",
+      "msg": "fix(git): sync fetches a submodule's missing pin and follows clean, pushed submodules that lagged",
+      "when": "3시간 전"
+    },
+    {
+      "repo": "pmcp",
+      "url": "https://github.com/modootoday/pmcp",
+      "msg": "feat(git): dir_to_gitlink_main_hint names the main checkout's own adoption step",
       "when": "3시간 전"
     },
     {
       "repo": "jekyll-theme-modootoday",
       "url": "https://github.com/modootoday/jekyll-theme-modootoday",
-      "msg": "feat(figure): a diagram picks its minimum width, and translations draw their own pair",
+      "msg": "test(theme): the feed and archive tests move to test/theme/blog/",
+      "when": "3시간 전"
+    },
+    {
+      "repo": "jekyll-theme-modootoday",
+      "url": "https://github.com/modootoday/jekyll-theme-modootoday",
+      "msg": "feat(feed): feed discovery and Subscribe links on blog, author and archive pages",
+      "when": "4시간 전"
+    },
+    {
+      "repo": "jekyll-theme-modootoday",
+      "url": "https://github.com/modootoday/jekyll-theme-modootoday",
+      "msg": "test(check): the --links tests skip without nokogiri, and pin the warning there",
       "when": "4시간 전"
     },
     {
       "repo": "pmcp",
       "url": "https://github.com/modootoday/pmcp",
       "msg": "chore: release pmcp 0.28.1",
-      "when": "4시간 전"
-    },
-    {
-      "repo": "pmcp",
-      "url": "https://github.com/modootoday/pmcp",
-      "msg": "test(git): the refuse delivery test compares trees, since a replay may change the commit hash",
-      "when": "5시간 전"
-    },
-    {
-      "repo": "jekyll-theme-modootoday",
-      "url": "https://github.com/modootoday/jekyll-theme-modootoday",
-      "msg": "docs: the anchor link's name shows its placeholder in brackets, not as a tag",
-      "when": "5시간 전"
-    },
-    {
-      "repo": "pmcp",
-      "url": "https://github.com/modootoday/pmcp",
-      "msg": "chore: release pmcp 0.28.0",
-      "when": "5시간 전"
-    },
-    {
-      "repo": "pmcp",
-      "url": "https://github.com/modootoday/pmcp",
-      "msg": "feat(git): dir_to_gitlink = \"refuse\" holds a sync that would turn a directory into a gitlink",
-      "when": "6시간 전"
+      "when": "9시간 전"
     }
   ],
-  "activity_stamp": "2026-11-12 08:52 KST",
+  "activity_stamp": "2026-11-12 13:58 KST",
   "card-biz": "모두의오늘 비즈 (대상: 사업자 · 대행사) – 브랜드의 오늘을, 근거가 남는 운영 결과로.. 제작 · 검토 · 승인 · 발행 · 고객사별 데이터 분리. 시작하기: biz.modoo.today",
   "card-codex": "SOLA Codex (대상: 데이터 · 분석) – 콘텐츠 품질 점수를 계산하는 방식을 공개한 문서. 가이드북 · 분류 체계 · 용어집. 읽어보기: codex.datalab.tools",
   "card-datalab": "데이터랩툴즈 헬퍼 (대상: 창작자 · 마케터) – 보던 화면을 분석 도구로 바꾸는 브라우저 헬퍼. 위젯 143개 · AIO 사이드패널 · MCP 브리지. 설치하기: datalab.tools",
