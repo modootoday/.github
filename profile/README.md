@@ -84,18 +84,18 @@ $ spec check
 
 <h2><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/modootoday/.github/main/profile/assets/sec-activity-dark.svg"><img alt="03 최근 활동 – 공개 저장소의 최근 커밋" src="https://raw.githubusercontent.com/modootoday/.github/main/profile/assets/sec-activity-light.svg" width="100%"></picture></h2>
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/modootoday/.github/main/profile/assets/activity-dark.svg"><img alt="최근 활동 – 공개 저장소 커밋 · 기준 2026-11-12 13:58 KST. 1) jekyll-theme-modootoday: feat(meta): edit_url: auto and a built-from-commit link from site.github (2시간 전). 2) pmcp: chore: release pmcp 0.29.0 (2시간 전). 3) pmcp: fix(git): sync fetches a submodule's missing pin and follows clean, pushed submodules that lagged (3시간 전). 4) pmcp: feat(git): dir_to_gitlink_main_hint names the main checkout's own adoption step (3시간 전). 5) jekyll-theme-modootoday: test(theme): the feed and archive tests move to test/theme/blog/ (3시간 전). 6) jekyll-theme-modootoday: feat(feed): feed discovery and Subscribe links on blog, author and archive pages (4시간 전). 7) jekyll-theme-modootoday: test(check): the --links tests skip without nokogiri, and pin the warning there (4시간 전). 8) pmcp: chore: release pmcp 0.28.1 (9시간 전)." src="https://raw.githubusercontent.com/modootoday/.github/main/profile/assets/activity-light.svg" width="100%"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/modootoday/.github/main/profile/assets/activity-dark.svg"><img alt="최근 활동 – 공개 저장소 커밋 · 기준 2026-11-12 23:19 KST. 1) jekyll-theme-modootoday: feat(banner): a latest-release banner built at build time (2시간 전). 2) jekyll-theme-modootoday: docs(changelog): the ko and ja changelog pages link the feed one level up (3시간 전). 3) jekyll-theme-modootoday: feat(feed): an Atom feed of a changelog, and GitHub's releases feed as an alternate (4시간 전). 4) jekyll-theme-modootoday: feat(meta): Report an issue, Was this page helpful and Discuss links (6시간 전). 5) pmcp: chore: release pmcp 0.29.1 (11시간 전). 6) pmcp: fix(git): a submodule module with no fetch refspec is judged against its origin's branches (11시간 전). 7) pmcp: chore: release pmcp 0.29.0 (12시간 전). 8) pmcp: feat(git): dir_to_gitlink_main_hint names the main checkout's own adoption step (12시간 전)." src="https://raw.githubusercontent.com/modootoday/.github/main/profile/assets/activity-light.svg" width="100%"></picture>
 
-<details><summary>최근 활동을 글로 보기 (2026-11-12 13:58 KST 기준)</summary>
+<details><summary>최근 활동을 글로 보기 (2026-11-12 23:19 KST 기준)</summary>
 
-- <a href="https://github.com/modootoday/jekyll-theme-modootoday">jekyll-theme-modootoday</a>: feat(meta): edit_url: auto and a built-from-commit link from site.github (2시간 전)
-- <a href="https://github.com/modootoday/pmcp">pmcp</a>: chore: release pmcp 0.29.0 (2시간 전)
-- <a href="https://github.com/modootoday/pmcp">pmcp</a>: fix(git): sync fetches a submodule's missing pin and follows clean, pushed submodules that lagged (3시간 전)
-- <a href="https://github.com/modootoday/pmcp">pmcp</a>: feat(git): dir_to_gitlink_main_hint names the main checkout's own adoption step (3시간 전)
-- <a href="https://github.com/modootoday/jekyll-theme-modootoday">jekyll-theme-modootoday</a>: test(theme): the feed and archive tests move to test/theme/blog/ (3시간 전)
-- <a href="https://github.com/modootoday/jekyll-theme-modootoday">jekyll-theme-modootoday</a>: feat(feed): feed discovery and Subscribe links on blog, author and archive pages (4시간 전)
-- <a href="https://github.com/modootoday/jekyll-theme-modootoday">jekyll-theme-modootoday</a>: test(check): the --links tests skip without nokogiri, and pin the warning there (4시간 전)
-- <a href="https://github.com/modootoday/pmcp">pmcp</a>: chore: release pmcp 0.28.1 (9시간 전)
+- <a href="https://github.com/modootoday/jekyll-theme-modootoday">jekyll-theme-modootoday</a>: feat(banner): a latest-release banner built at build time (2시간 전)
+- <a href="https://github.com/modootoday/jekyll-theme-modootoday">jekyll-theme-modootoday</a>: docs(changelog): the ko and ja changelog pages link the feed one level up (3시간 전)
+- <a href="https://github.com/modootoday/jekyll-theme-modootoday">jekyll-theme-modootoday</a>: feat(feed): an Atom feed of a changelog, and GitHub's releases feed as an alternate (4시간 전)
+- <a href="https://github.com/modootoday/jekyll-theme-modootoday">jekyll-theme-modootoday</a>: feat(meta): Report an issue, Was this page helpful and Discuss links (6시간 전)
+- <a href="https://github.com/modootoday/pmcp">pmcp</a>: chore: release pmcp 0.29.1 (11시간 전)
+- <a href="https://github.com/modootoday/pmcp">pmcp</a>: fix(git): a submodule module with no fetch refspec is judged against its origin's branches (11시간 전)
+- <a href="https://github.com/modootoday/pmcp">pmcp</a>: chore: release pmcp 0.29.0 (12시간 전)
+- <a href="https://github.com/modootoday/pmcp">pmcp</a>: feat(git): dir_to_gitlink_main_hint names the main checkout's own adoption step (12시간 전)
 
 </details>
 
