@@ -1,56 +1,56 @@
 {
-  "activity": "최근 활동 – 공개 저장소 커밋 · 기준 2026-11-13 22:39 KST. 1) jekyll-theme-modootoday: chore(release): 1.7.0 (16분 전). 2) pmcp: chore: release pmcp 0.31.0 (2시간 전). 3) pmcp: feat(hooks): git.discard_work guards commands that throw away uncommitted work (2시간 전). 4) jekyll-theme-modootoday: docs: feeds need no plugin, changelog feed files, releases data, feedback values, language homes (6시간 전). 5) jekyll-theme-modootoday: docs(guides): --links needs nokogiri, and the 1.7 upgrade note lists every addition (6시간 전). 6) jekyll-theme-modootoday: docs(changelog): translated Changelog pages link the English release list (6시간 전). 7) meari: docs: pin docs site theme to v1.6.0 (8시간 전). 8) pmcp: chore: release pmcp 0.30.1 (19시간 전).",
+  "activity": "최근 활동 – 공개 저장소 커밋 · 기준 2026-11-14 08:02 KST. 1) jekyll-theme-modootoday: docs(spec): the 1.7.0 usability audit lists the fix for each minor (6시간 전). 2) jekyll-theme-modootoday: docs(guides): Translate your site, the steps for site authors (6시간 전). 3) jekyll-theme-modootoday: docs(pwa): steps to see the update notice (6시간 전). 4) jekyll-theme-modootoday: docs(components): the On this page mark has no setting of its own (6시간 전). 5) pmcp: chore: release pmcp 0.31.0 (11시간 전). 6) pmcp: feat(hooks): git.discard_work guards commands that throw away uncommitted work (12시간 전). 7) meari: docs: pin docs site theme to v1.6.0 (17시간 전). 8) pmcp: chore: release pmcp 0.30.1 (1일 전).",
   "activity_items": [
     {
       "repo": "jekyll-theme-modootoday",
       "url": "https://github.com/modootoday/jekyll-theme-modootoday",
-      "msg": "chore(release): 1.7.0",
-      "when": "16분 전"
+      "msg": "docs(spec): the 1.7.0 usability audit lists the fix for each minor",
+      "when": "6시간 전"
+    },
+    {
+      "repo": "jekyll-theme-modootoday",
+      "url": "https://github.com/modootoday/jekyll-theme-modootoday",
+      "msg": "docs(guides): Translate your site, the steps for site authors",
+      "when": "6시간 전"
+    },
+    {
+      "repo": "jekyll-theme-modootoday",
+      "url": "https://github.com/modootoday/jekyll-theme-modootoday",
+      "msg": "docs(pwa): steps to see the update notice",
+      "when": "6시간 전"
+    },
+    {
+      "repo": "jekyll-theme-modootoday",
+      "url": "https://github.com/modootoday/jekyll-theme-modootoday",
+      "msg": "docs(components): the On this page mark has no setting of its own",
+      "when": "6시간 전"
     },
     {
       "repo": "pmcp",
       "url": "https://github.com/modootoday/pmcp",
       "msg": "chore: release pmcp 0.31.0",
-      "when": "2시간 전"
+      "when": "11시간 전"
     },
     {
       "repo": "pmcp",
       "url": "https://github.com/modootoday/pmcp",
       "msg": "feat(hooks): git.discard_work guards commands that throw away uncommitted work",
-      "when": "2시간 전"
-    },
-    {
-      "repo": "jekyll-theme-modootoday",
-      "url": "https://github.com/modootoday/jekyll-theme-modootoday",
-      "msg": "docs: feeds need no plugin, changelog feed files, releases data, feedback values, language homes",
-      "when": "6시간 전"
-    },
-    {
-      "repo": "jekyll-theme-modootoday",
-      "url": "https://github.com/modootoday/jekyll-theme-modootoday",
-      "msg": "docs(guides): --links needs nokogiri, and the 1.7 upgrade note lists every addition",
-      "when": "6시간 전"
-    },
-    {
-      "repo": "jekyll-theme-modootoday",
-      "url": "https://github.com/modootoday/jekyll-theme-modootoday",
-      "msg": "docs(changelog): translated Changelog pages link the English release list",
-      "when": "6시간 전"
+      "when": "12시간 전"
     },
     {
       "repo": "meari",
       "url": "https://github.com/modootoday/meari",
       "msg": "docs: pin docs site theme to v1.6.0",
-      "when": "8시간 전"
+      "when": "17시간 전"
     },
     {
       "repo": "pmcp",
       "url": "https://github.com/modootoday/pmcp",
       "msg": "chore: release pmcp 0.30.1",
-      "when": "19시간 전"
+      "when": "1일 전"
     }
   ],
-  "activity_stamp": "2026-11-13 22:39 KST",
+  "activity_stamp": "2026-11-14 08:02 KST",
   "card-biz": "모두의오늘 비즈 (대상: 사업자 · 대행사) – 브랜드의 오늘을, 근거가 남는 운영 결과로.. 제작 · 검토 · 승인 · 발행 · 고객사별 데이터 분리. 시작하기: biz.modoo.today",
   "card-codex": "SOLA Codex (대상: 데이터 · 분석) – 콘텐츠 품질 점수를 계산하는 방식을 공개한 문서. 가이드북 · 분류 체계 · 용어집. 읽어보기: codex.datalab.tools",
   "card-datalab": "데이터랩툴즈 헬퍼 (대상: 창작자 · 마케터) – 보던 화면을 분석 도구로 바꾸는 브라우저 헬퍼. 위젯 143개 · AIO 사이드패널 · MCP 브리지. 설치하기: datalab.tools",
