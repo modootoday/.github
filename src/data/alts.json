@@ -1,56 +1,56 @@
 {
-  "activity": "최근 활동 – 공개 저장소 커밋 · 기준 2026-11-13 07:59 KST. 1) pmcp: chore: release pmcp 0.30.1 (4시간 전). 2) pmcp: fix(lease): pmcp heavy warns about an unknown [host.lease] key instead of refusing (5시간 전). 3) jekyll-theme-modootoday: fix(print): the print sheet's rules move to their own context, like the toast sheet (5시간 전). 4) jekyll-theme-modootoday: feat(print): an opt-in print stylesheet (6시간 전). 5) pmcp: chore: release pmcp 0.30.0 (6시간 전). 6) pmcp: docs(lease): pad the gate_alone row as docs:check formats it (7시간 전). 7) jekyll-theme-modootoday: feat(seo): Open Graph image alt text, size and a fallback image (7시간 전). 8) jekyll-theme-modootoday: feat(banner): a latest-release banner built at build time (10시간 전).",
+  "activity": "최근 활동 – 공개 저장소 커밋 · 기준 2026-11-13 13:13 KST. 1) jekyll-theme-modootoday: fix(print): action buttons print as outlines and the mobile section menu is left out (3시간 전). 2) jekyll-theme-modootoday: revert(docs): translated Changelog pages go back to the unmarked release list (4시간 전). 3) jekyll-theme-modootoday: fix(docs): translated Changelog pages mark the English release list as English (9시간 전). 4) jekyll-theme-modootoday: fix(toc): a heading in a closed tab panel is never the section being read (9시간 전). 5) pmcp: chore: release pmcp 0.30.1 (10시간 전). 6) pmcp: fix(lease): pmcp heavy warns about an unknown [host.lease] key instead of refusing (10시간 전). 7) pmcp: chore: release pmcp 0.30.0 (12시간 전). 8) pmcp: docs(lease): pad the gate_alone row as docs:check formats it (12시간 전).",
   "activity_items": [
+    {
+      "repo": "jekyll-theme-modootoday",
+      "url": "https://github.com/modootoday/jekyll-theme-modootoday",
+      "msg": "fix(print): action buttons print as outlines and the mobile section menu is left out",
+      "when": "3시간 전"
+    },
+    {
+      "repo": "jekyll-theme-modootoday",
+      "url": "https://github.com/modootoday/jekyll-theme-modootoday",
+      "msg": "revert(docs): translated Changelog pages go back to the unmarked release list",
+      "when": "4시간 전"
+    },
+    {
+      "repo": "jekyll-theme-modootoday",
+      "url": "https://github.com/modootoday/jekyll-theme-modootoday",
+      "msg": "fix(docs): translated Changelog pages mark the English release list as English",
+      "when": "9시간 전"
+    },
+    {
+      "repo": "jekyll-theme-modootoday",
+      "url": "https://github.com/modootoday/jekyll-theme-modootoday",
+      "msg": "fix(toc): a heading in a closed tab panel is never the section being read",
+      "when": "9시간 전"
+    },
     {
       "repo": "pmcp",
       "url": "https://github.com/modootoday/pmcp",
       "msg": "chore: release pmcp 0.30.1",
-      "when": "4시간 전"
+      "when": "10시간 전"
     },
     {
       "repo": "pmcp",
       "url": "https://github.com/modootoday/pmcp",
       "msg": "fix(lease): pmcp heavy warns about an unknown [host.lease] key instead of refusing",
-      "when": "5시간 전"
-    },
-    {
-      "repo": "jekyll-theme-modootoday",
-      "url": "https://github.com/modootoday/jekyll-theme-modootoday",
-      "msg": "fix(print): the print sheet's rules move to their own context, like the toast sheet",
-      "when": "5시간 전"
-    },
-    {
-      "repo": "jekyll-theme-modootoday",
-      "url": "https://github.com/modootoday/jekyll-theme-modootoday",
-      "msg": "feat(print): an opt-in print stylesheet",
-      "when": "6시간 전"
+      "when": "10시간 전"
     },
     {
       "repo": "pmcp",
       "url": "https://github.com/modootoday/pmcp",
       "msg": "chore: release pmcp 0.30.0",
-      "when": "6시간 전"
+      "when": "12시간 전"
     },
     {
       "repo": "pmcp",
       "url": "https://github.com/modootoday/pmcp",
       "msg": "docs(lease): pad the gate_alone row as docs:check formats it",
-      "when": "7시간 전"
-    },
-    {
-      "repo": "jekyll-theme-modootoday",
-      "url": "https://github.com/modootoday/jekyll-theme-modootoday",
-      "msg": "feat(seo): Open Graph image alt text, size and a fallback image",
-      "when": "7시간 전"
-    },
-    {
-      "repo": "jekyll-theme-modootoday",
-      "url": "https://github.com/modootoday/jekyll-theme-modootoday",
-      "msg": "feat(banner): a latest-release banner built at build time",
-      "when": "10시간 전"
+      "when": "12시간 전"
     }
   ],
-  "activity_stamp": "2026-11-13 07:59 KST",
+  "activity_stamp": "2026-11-13 13:13 KST",
   "card-biz": "모두의오늘 비즈 (대상: 사업자 · 대행사) – 브랜드의 오늘을, 근거가 남는 운영 결과로.. 제작 · 검토 · 승인 · 발행 · 고객사별 데이터 분리. 시작하기: biz.modoo.today",
   "card-codex": "SOLA Codex (대상: 데이터 · 분석) – 콘텐츠 품질 점수를 계산하는 방식을 공개한 문서. 가이드북 · 분류 체계 · 용어집. 읽어보기: codex.datalab.tools",
   "card-datalab": "데이터랩툴즈 헬퍼 (대상: 창작자 · 마케터) – 보던 화면을 분석 도구로 바꾸는 브라우저 헬퍼. 위젯 143개 · AIO 사이드패널 · MCP 브리지. 설치하기: datalab.tools",
