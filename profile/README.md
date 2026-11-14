@@ -84,17 +84,17 @@ $ spec check
 
 <h2><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/modootoday/.github/main/profile/assets/sec-activity-dark.svg"><img alt="03 최근 활동 – 공개 저장소의 최근 커밋" src="https://raw.githubusercontent.com/modootoday/.github/main/profile/assets/sec-activity-light.svg" width="100%"></picture></h2>
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/modootoday/.github/main/profile/assets/activity-dark.svg"><img alt="최근 활동 – 공개 저장소 커밋 · 기준 2026-11-14 13:09 KST. 1) jekyll-theme-modootoday: docs(spec): the 1.7.0 usability audit lists the fix for each minor (11시간 전). 2) jekyll-theme-modootoday: docs(guides): Translate your site, the steps for site authors (11시간 전). 3) jekyll-theme-modootoday: docs(pwa): steps to see the update notice (11시간 전). 4) jekyll-theme-modootoday: docs(components): the On this page mark has no setting of its own (11시간 전). 5) pmcp: chore: release pmcp 0.31.0 (16시간 전). 6) pmcp: feat(hooks): git.discard_work guards commands that throw away uncommitted work (17시간 전). 7) meari: docs: pin docs site theme to v1.6.0 (23시간 전). 8) pmcp: chore: release pmcp 0.30.1 (1일 전)." src="https://raw.githubusercontent.com/modootoday/.github/main/profile/assets/activity-light.svg" width="100%"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/modootoday/.github/main/profile/assets/activity-dark.svg"><img alt="최근 활동 – 공개 저장소 커밋 · 기준 2026-11-14 21:44 KST. 1) jekyll-theme-modootoday: docs: word the Japanese github: map stand-in without a calque (3시간 전). 2) jekyll-theme-modootoday: docs(spec): the 1.7.1 usability audit lists the fix for each finding (3시간 전). 3) jekyll-theme-modootoday: docs: answer the 1.7.1 usability audit in the install, configuration, translation and update guides (3시간 전). 4) jekyll-theme-modootoday: fix(banner): the release banner drops a leading v of the tag (3시간 전). 5) pmcp: chore: release pmcp 0.31.0 (1일 전). 6) pmcp: feat(hooks): git.discard_work guards commands that throw away uncommitted work (1일 전). 7) meari: docs: pin docs site theme to v1.6.0 (1일 전). 8) pmcp: chore: release pmcp 0.30.1 (1일 전)." src="https://raw.githubusercontent.com/modootoday/.github/main/profile/assets/activity-light.svg" width="100%"></picture>
 
-<details><summary>최근 활동을 글로 보기 (2026-11-14 13:09 KST 기준)</summary>
+<details><summary>최근 활동을 글로 보기 (2026-11-14 21:44 KST 기준)</summary>
 
-- <a href="https://github.com/modootoday/jekyll-theme-modootoday">jekyll-theme-modootoday</a>: docs(spec): the 1.7.0 usability audit lists the fix for each minor (11시간 전)
-- <a href="https://github.com/modootoday/jekyll-theme-modootoday">jekyll-theme-modootoday</a>: docs(guides): Translate your site, the steps for site authors (11시간 전)
-- <a href="https://github.com/modootoday/jekyll-theme-modootoday">jekyll-theme-modootoday</a>: docs(pwa): steps to see the update notice (11시간 전)
-- <a href="https://github.com/modootoday/jekyll-theme-modootoday">jekyll-theme-modootoday</a>: docs(components): the On this page mark has no setting of its own (11시간 전)
-- <a href="https://github.com/modootoday/pmcp">pmcp</a>: chore: release pmcp 0.31.0 (16시간 전)
-- <a href="https://github.com/modootoday/pmcp">pmcp</a>: feat(hooks): git.discard_work guards commands that throw away uncommitted work (17시간 전)
-- <a href="https://github.com/modootoday/meari">meari</a>: docs: pin docs site theme to v1.6.0 (23시간 전)
+- <a href="https://github.com/modootoday/jekyll-theme-modootoday">jekyll-theme-modootoday</a>: docs: word the Japanese github: map stand-in without a calque (3시간 전)
+- <a href="https://github.com/modootoday/jekyll-theme-modootoday">jekyll-theme-modootoday</a>: docs(spec): the 1.7.1 usability audit lists the fix for each finding (3시간 전)
+- <a href="https://github.com/modootoday/jekyll-theme-modootoday">jekyll-theme-modootoday</a>: docs: answer the 1.7.1 usability audit in the install, configuration, translation and update guides (3시간 전)
+- <a href="https://github.com/modootoday/jekyll-theme-modootoday">jekyll-theme-modootoday</a>: fix(banner): the release banner drops a leading v of the tag (3시간 전)
+- <a href="https://github.com/modootoday/pmcp">pmcp</a>: chore: release pmcp 0.31.0 (1일 전)
+- <a href="https://github.com/modootoday/pmcp">pmcp</a>: feat(hooks): git.discard_work guards commands that throw away uncommitted work (1일 전)
+- <a href="https://github.com/modootoday/meari">meari</a>: docs: pin docs site theme to v1.6.0 (1일 전)
 - <a href="https://github.com/modootoday/pmcp">pmcp</a>: chore: release pmcp 0.30.1 (1일 전)
 
 </details>
