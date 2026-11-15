@@ -1,56 +1,56 @@
 {
-  "activity": "최근 활동 – 공개 저장소 커밋 · 기준 2026-11-15 12:54 KST. 1) jekyll-theme-modootoday: docs: a Markdown twin keeps the page's text, no longer described as byte-identical (59분 전). 2) jekyll-theme-modootoday: feat(twins): file links in twins and llms-full point at their targets' site URLs (4시간 전). 3) jekyll-theme-modootoday: docs(spec): twins rewrite file links, closing the docs links ADR's open item (4시간 전). 4) jekyll-theme-modootoday: test(docs): a relative docs link that names no file fails the docs rules (5시간 전). 5) pmcp: chore: release pmcp 0.31.0 (1일 전). 6) pmcp: feat(hooks): git.discard_work guards commands that throw away uncommitted work (1일 전). 7) meari: docs: pin docs site theme to v1.6.0 (1일 전). 8) pmcp: chore: release pmcp 0.30.1 (2일 전).",
+  "activity": "최근 활동 – 공개 저장소 커밋 · 기준 2026-11-15 22:11 KST. 1) pmcp: chore: release pmcp 0.33.0 (1시간 전). 2) pmcp: fix(hooks): the hook bundle keeps its own copy of the runtime lists (1시간 전). 3) pmcp: refactor(cli): the options commands share have one owner (1시간 전). 4) pmcp: feat(lease): a waiter past age_limit reaches its load_grace there (1시간 전). 5) jekyll-theme-modootoday: docs(install): the Jekyll 4 Gemfile line for jekyll-relative-links names no version (3시간 전). 6) jekyll-theme-modootoday: docs(components): the kitchen sinks rename their example Install headings, so the Install section keeps its id (4시간 전). 7) jekyll-theme-modootoday: docs(readme): the Korean and Japanese Contributing sections are one paragraph, keeping the READMEs within 150 lines (6시간 전). 8) jekyll-theme-modootoday: docs(spec): the 1.7.1 usability recheck and its status (6시간 전).",
   "activity_items": [
     {
-      "repo": "jekyll-theme-modootoday",
-      "url": "https://github.com/modootoday/jekyll-theme-modootoday",
-      "msg": "docs: a Markdown twin keeps the page's text, no longer described as byte-identical",
-      "when": "59분 전"
+      "repo": "pmcp",
+      "url": "https://github.com/modootoday/pmcp",
+      "msg": "chore: release pmcp 0.33.0",
+      "when": "1시간 전"
+    },
+    {
+      "repo": "pmcp",
+      "url": "https://github.com/modootoday/pmcp",
+      "msg": "fix(hooks): the hook bundle keeps its own copy of the runtime lists",
+      "when": "1시간 전"
+    },
+    {
+      "repo": "pmcp",
+      "url": "https://github.com/modootoday/pmcp",
+      "msg": "refactor(cli): the options commands share have one owner",
+      "when": "1시간 전"
+    },
+    {
+      "repo": "pmcp",
+      "url": "https://github.com/modootoday/pmcp",
+      "msg": "feat(lease): a waiter past age_limit reaches its load_grace there",
+      "when": "1시간 전"
     },
     {
       "repo": "jekyll-theme-modootoday",
       "url": "https://github.com/modootoday/jekyll-theme-modootoday",
-      "msg": "feat(twins): file links in twins and llms-full point at their targets' site URLs",
+      "msg": "docs(install): the Jekyll 4 Gemfile line for jekyll-relative-links names no version",
+      "when": "3시간 전"
+    },
+    {
+      "repo": "jekyll-theme-modootoday",
+      "url": "https://github.com/modootoday/jekyll-theme-modootoday",
+      "msg": "docs(components): the kitchen sinks rename their example Install headings, so the Install section keeps its id",
       "when": "4시간 전"
     },
     {
       "repo": "jekyll-theme-modootoday",
       "url": "https://github.com/modootoday/jekyll-theme-modootoday",
-      "msg": "docs(spec): twins rewrite file links, closing the docs links ADR's open item",
-      "when": "4시간 전"
+      "msg": "docs(readme): the Korean and Japanese Contributing sections are one paragraph, keeping the READMEs within 150 lines",
+      "when": "6시간 전"
     },
     {
       "repo": "jekyll-theme-modootoday",
       "url": "https://github.com/modootoday/jekyll-theme-modootoday",
-      "msg": "test(docs): a relative docs link that names no file fails the docs rules",
-      "when": "5시간 전"
-    },
-    {
-      "repo": "pmcp",
-      "url": "https://github.com/modootoday/pmcp",
-      "msg": "chore: release pmcp 0.31.0",
-      "when": "1일 전"
-    },
-    {
-      "repo": "pmcp",
-      "url": "https://github.com/modootoday/pmcp",
-      "msg": "feat(hooks): git.discard_work guards commands that throw away uncommitted work",
-      "when": "1일 전"
-    },
-    {
-      "repo": "meari",
-      "url": "https://github.com/modootoday/meari",
-      "msg": "docs: pin docs site theme to v1.6.0",
-      "when": "1일 전"
-    },
-    {
-      "repo": "pmcp",
-      "url": "https://github.com/modootoday/pmcp",
-      "msg": "chore: release pmcp 0.30.1",
-      "when": "2일 전"
+      "msg": "docs(spec): the 1.7.1 usability recheck and its status",
+      "when": "6시간 전"
     }
   ],
-  "activity_stamp": "2026-11-15 12:54 KST",
+  "activity_stamp": "2026-11-15 22:11 KST",
   "card-biz": "모두의오늘 비즈 (대상: 사업자 · 대행사) – 브랜드의 오늘을, 근거가 남는 운영 결과로.. 제작 · 검토 · 승인 · 발행 · 고객사별 데이터 분리. 시작하기: biz.modoo.today",
   "card-codex": "SOLA Codex (대상: 데이터 · 분석) – 콘텐츠 품질 점수를 계산하는 방식을 공개한 문서. 가이드북 · 분류 체계 · 용어집. 읽어보기: codex.datalab.tools",
   "card-datalab": "데이터랩툴즈 헬퍼 (대상: 창작자 · 마케터) – 보던 화면을 분석 도구로 바꾸는 브라우저 헬퍼. 위젯 143개 · AIO 사이드패널 · MCP 브리지. 설치하기: datalab.tools",
