@@ -84,15 +84,15 @@ $ spec check
 
 <h2><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/modootoday/.github/main/profile/assets/sec-activity-dark.svg"><img alt="03 최근 활동 – 공개 저장소의 최근 커밋" src="https://raw.githubusercontent.com/modootoday/.github/main/profile/assets/sec-activity-light.svg" width="100%"></picture></h2>
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/modootoday/.github/main/profile/assets/activity-dark.svg"><img alt="최근 활동 – 공개 저장소 커밋 · 기준 2026-11-18 23:50 KST. 1) specfold: release: 0.10.0 (13시간 전). 2) specfold: feat(check): mounted repositories resolve through their workspace; D1 skips version bumps (18시간 전). 3) specfold: release: 0.9.0 (1일 전). 4) specfold: feat(check): [owners] mount and L10; gitlinks read cleanly from hooks (1일 전). 5) humanymous: test(ci): pin the Go 1.26.11 builder image in the storage contract (1일 전). 6) jekyll-theme-modootoday: docs(spec): plan the 1.8 starter waves 2 to 6 of the docs demo map (2일 전). 7) jekyll-theme-modootoday: chore(release): 1.7.1 (2일 전). 8) jekyll-theme-modootoday: docs(spec): the 1.7.1 usability audit records the last re-verification (2일 전)." src="https://raw.githubusercontent.com/modootoday/.github/main/profile/assets/activity-light.svg" width="100%"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/modootoday/.github/main/profile/assets/activity-dark.svg"><img alt="최근 활동 – 공개 저장소 커밋 · 기준 2026-11-19 08:43 KST. 1) specfold: release: 0.10.0 (22시간 전). 2) specfold: feat(check): mounted repositories resolve through their workspace; D1 skips version bumps (1일 전). 3) specfold: release: 0.9.0 (1일 전). 4) specfold: feat(check): [owners] mount and L10; gitlinks read cleanly from hooks (1일 전). 5) humanymous: test(ci): pin the Go 1.26.11 builder image in the storage contract (2일 전). 6) jekyll-theme-modootoday: docs(spec): plan the 1.8 starter waves 2 to 6 of the docs demo map (2일 전). 7) jekyll-theme-modootoday: chore(release): 1.7.1 (2일 전). 8) jekyll-theme-modootoday: docs(spec): the 1.7.1 usability audit records the last re-verification (2일 전)." src="https://raw.githubusercontent.com/modootoday/.github/main/profile/assets/activity-light.svg" width="100%"></picture>
 
-<details><summary>최근 활동을 글로 보기 (2026-11-18 23:50 KST 기준)</summary>
+<details><summary>최근 활동을 글로 보기 (2026-11-19 08:43 KST 기준)</summary>
 
-- <a href="https://github.com/modootoday/specfold">specfold</a>: release: 0.10.0 (13시간 전)
-- <a href="https://github.com/modootoday/specfold">specfold</a>: feat(check): mounted repositories resolve through their workspace; D1 skips version bumps (18시간 전)
+- <a href="https://github.com/modootoday/specfold">specfold</a>: release: 0.10.0 (22시간 전)
+- <a href="https://github.com/modootoday/specfold">specfold</a>: feat(check): mounted repositories resolve through their workspace; D1 skips version bumps (1일 전)
 - <a href="https://github.com/modootoday/specfold">specfold</a>: release: 0.9.0 (1일 전)
 - <a href="https://github.com/modootoday/specfold">specfold</a>: feat(check): [owners] mount and L10; gitlinks read cleanly from hooks (1일 전)
-- <a href="https://github.com/modootoday/humanymous">humanymous</a>: test(ci): pin the Go 1.26.11 builder image in the storage contract (1일 전)
+- <a href="https://github.com/modootoday/humanymous">humanymous</a>: test(ci): pin the Go 1.26.11 builder image in the storage contract (2일 전)
 - <a href="https://github.com/modootoday/jekyll-theme-modootoday">jekyll-theme-modootoday</a>: docs(spec): plan the 1.8 starter waves 2 to 6 of the docs demo map (2일 전)
 - <a href="https://github.com/modootoday/jekyll-theme-modootoday">jekyll-theme-modootoday</a>: chore(release): 1.7.1 (2일 전)
 - <a href="https://github.com/modootoday/jekyll-theme-modootoday">jekyll-theme-modootoday</a>: docs(spec): the 1.7.1 usability audit records the last re-verification (2일 전)
