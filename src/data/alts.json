@@ -1,11 +1,11 @@
 {
-  "activity": "최근 활동 – 공개 저장소 커밋 · 기준 2026-11-19 08:43 KST. 1) specfold: release: 0.10.0 (22시간 전). 2) specfold: feat(check): mounted repositories resolve through their workspace; D1 skips version bumps (1일 전). 3) specfold: release: 0.9.0 (1일 전). 4) specfold: feat(check): [owners] mount and L10; gitlinks read cleanly from hooks (1일 전). 5) humanymous: test(ci): pin the Go 1.26.11 builder image in the storage contract (2일 전). 6) jekyll-theme-modootoday: docs(spec): plan the 1.8 starter waves 2 to 6 of the docs demo map (2일 전). 7) jekyll-theme-modootoday: chore(release): 1.7.1 (2일 전). 8) jekyll-theme-modootoday: docs(spec): the 1.7.1 usability audit records the last re-verification (2일 전).",
+  "activity": "최근 활동 – 공개 저장소 커밋 · 기준 2026-11-19 14:08 KST. 1) specfold: release: 0.10.0 (1일 전). 2) specfold: feat(check): mounted repositories resolve through their workspace; D1 skips version bumps (1일 전). 3) specfold: release: 0.9.0 (1일 전). 4) specfold: feat(check): [owners] mount and L10; gitlinks read cleanly from hooks (1일 전). 5) humanymous: test(ci): pin the Go 1.26.11 builder image in the storage contract (2일 전). 6) jekyll-theme-modootoday: docs(spec): plan the 1.8 starter waves 2 to 6 of the docs demo map (2일 전). 7) jekyll-theme-modootoday: chore(release): 1.7.1 (2일 전). 8) jekyll-theme-modootoday: docs(spec): the 1.7.1 usability audit records the last re-verification (2일 전).",
   "activity_items": [
     {
       "repo": "specfold",
       "url": "https://github.com/modootoday/specfold",
       "msg": "release: 0.10.0",
-      "when": "22시간 전"
+      "when": "1일 전"
     },
     {
       "repo": "specfold",
@@ -50,7 +50,7 @@
       "when": "2일 전"
     }
   ],
-  "activity_stamp": "2026-11-19 08:43 KST",
+  "activity_stamp": "2026-11-19 14:08 KST",
   "card-biz": "모두의오늘 비즈 (대상: 사업자 · 대행사) – 브랜드의 오늘을, 근거가 남는 운영 결과로.. 제작 · 검토 · 승인 · 발행 · 고객사별 데이터 분리. 시작하기: biz.modoo.today",
   "card-codex": "SOLA Codex (대상: 데이터 · 분석) – 콘텐츠 품질 점수를 계산하는 방식을 공개한 문서. 가이드북 · 분류 체계 · 용어집. 읽어보기: codex.datalab.tools",
   "card-datalab": "데이터랩툴즈 헬퍼 (대상: 창작자 · 마케터) – 보던 화면을 분석 도구로 바꾸는 브라우저 헬퍼. 위젯 143개 · AIO 사이드패널 · MCP 브리지. 설치하기: datalab.tools",
