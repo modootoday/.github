@@ -1,29 +1,29 @@
 {
-  "activity": "최근 활동 – 공개 저장소 커밋 · 기준 2026-11-20 23:38 KST. 1) pmcp: fix(pmcp): validate marketplaces alternatives inside config reader (7시간 전). 2) pmcp: feat(pmcp): add budget audit, tui mailbox panel, fleet absorption tests, and conditional activation (7시간 전). 3) pmcp: feat(pmcp): add mailbox event scoping, marketplace alternative paths, and stray checkout sync cleanup (7시간 전). 4) pmcp: feat(pmcp): add native-hook bridge, pmcp-tui hud, git deliver --dry-run, and guard qualification (8시간 전). 5) envs: feat(doctor): report a source's file that disagrees with the current release (1일 전). 6) envs: chore(release): 0.5.3, doctor reports a source's file that disagrees with the current release (1일 전). 7) specfold: release: 0.10.0 (2일 전). 8) specfold: feat(check): mounted repositories resolve through their workspace; D1 skips version bumps (2일 전).",
+  "activity": "최근 활동 – 공개 저장소 커밋 · 기준 2026-11-21 08:30 KST. 1) pmcp: chore: release pmcp 0.35.1 (3시간 전). 2) pmcp: docs(upgrading): pmcp doctor is what reports the marketplace path read (3시간 전). 3) pmcp: fix(hooks): git.push_without_verify also refuses a push that points core.hooksPath away (3시간 전). 4) pmcp: test: fixture paths use neutral names (5시간 전). 5) envs: feat(doctor): report a source's file that disagrees with the current release (1일 전). 6) envs: chore(release): 0.5.3, doctor reports a source's file that disagrees with the current release (1일 전). 7) specfold: release: 0.10.0 (2일 전). 8) specfold: feat(check): mounted repositories resolve through their workspace; D1 skips version bumps (3일 전).",
   "activity_items": [
     {
       "repo": "pmcp",
       "url": "https://github.com/modootoday/pmcp",
-      "msg": "fix(pmcp): validate marketplaces alternatives inside config reader",
-      "when": "7시간 전"
+      "msg": "chore: release pmcp 0.35.1",
+      "when": "3시간 전"
     },
     {
       "repo": "pmcp",
       "url": "https://github.com/modootoday/pmcp",
-      "msg": "feat(pmcp): add budget audit, tui mailbox panel, fleet absorption tests, and conditional activation",
-      "when": "7시간 전"
+      "msg": "docs(upgrading): pmcp doctor is what reports the marketplace path read",
+      "when": "3시간 전"
     },
     {
       "repo": "pmcp",
       "url": "https://github.com/modootoday/pmcp",
-      "msg": "feat(pmcp): add mailbox event scoping, marketplace alternative paths, and stray checkout sync cleanup",
-      "when": "7시간 전"
+      "msg": "fix(hooks): git.push_without_verify also refuses a push that points core.hooksPath away",
+      "when": "3시간 전"
     },
     {
       "repo": "pmcp",
       "url": "https://github.com/modootoday/pmcp",
-      "msg": "feat(pmcp): add native-hook bridge, pmcp-tui hud, git deliver --dry-run, and guard qualification",
-      "when": "8시간 전"
+      "msg": "test: fixture paths use neutral names",
+      "when": "5시간 전"
     },
     {
       "repo": "envs",
@@ -47,10 +47,10 @@
       "repo": "specfold",
       "url": "https://github.com/modootoday/specfold",
       "msg": "feat(check): mounted repositories resolve through their workspace; D1 skips version bumps",
-      "when": "2일 전"
+      "when": "3일 전"
     }
   ],
-  "activity_stamp": "2026-11-20 23:38 KST",
+  "activity_stamp": "2026-11-21 08:30 KST",
   "card-biz": "모두의오늘 비즈 (대상: 사업자 · 대행사) – 브랜드의 오늘을, 근거가 남는 운영 결과로.. 제작 · 검토 · 승인 · 발행 · 고객사별 데이터 분리. 시작하기: biz.modoo.today",
   "card-codex": "SOLA Codex (대상: 데이터 · 분석) – 콘텐츠 품질 점수를 계산하는 방식을 공개한 문서. 가이드북 · 분류 체계 · 용어집. 읽어보기: codex.datalab.tools",
   "card-datalab": "데이터랩툴즈 헬퍼 (대상: 창작자 · 마케터) – 보던 화면을 분석 도구로 바꾸는 브라우저 헬퍼. 위젯 143개 · AIO 사이드패널 · MCP 브리지. 설치하기: datalab.tools",
