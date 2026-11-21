@@ -84,16 +84,16 @@ $ spec check
 
 <h2><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/modootoday/.github/main/profile/assets/sec-activity-dark.svg"><img alt="03 최근 활동 – 공개 저장소의 최근 커밋" src="https://raw.githubusercontent.com/modootoday/.github/main/profile/assets/sec-activity-light.svg" width="100%"></picture></h2>
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/modootoday/.github/main/profile/assets/activity-dark.svg"><img alt="최근 활동 – 공개 저장소 커밋 · 기준 2026-11-21 13:52 KST. 1) pmcp: chore: release pmcp 0.35.1 (8시간 전). 2) pmcp: docs(upgrading): pmcp doctor is what reports the marketplace path read (8시간 전). 3) pmcp: fix(hooks): git.push_without_verify also refuses a push that points core.hooksPath away (9시간 전). 4) pmcp: test: fixture paths use neutral names (10시간 전). 5) envs: feat(doctor): report a source's file that disagrees with the current release (1일 전). 6) envs: chore(release): 0.5.3, doctor reports a source's file that disagrees with the current release (1일 전). 7) specfold: release: 0.10.0 (3일 전). 8) specfold: feat(check): mounted repositories resolve through their workspace; D1 skips version bumps (3일 전)." src="https://raw.githubusercontent.com/modootoday/.github/main/profile/assets/activity-light.svg" width="100%"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/modootoday/.github/main/profile/assets/activity-dark.svg"><img alt="최근 활동 – 공개 저장소 커밋 · 기준 2026-11-21 22:55 KST. 1) pmcp: chore: release pmcp 0.35.1 (17시간 전). 2) pmcp: docs(upgrading): pmcp doctor is what reports the marketplace path read (18시간 전). 3) pmcp: fix(hooks): git.push_without_verify also refuses a push that points core.hooksPath away (18시간 전). 4) pmcp: test: fixture paths use neutral names (19시간 전). 5) envs: feat(doctor): report a source's file that disagrees with the current release (2일 전). 6) envs: chore(release): 0.5.3, doctor reports a source's file that disagrees with the current release (2일 전). 7) specfold: release: 0.10.0 (3일 전). 8) specfold: feat(check): mounted repositories resolve through their workspace; D1 skips version bumps (3일 전)." src="https://raw.githubusercontent.com/modootoday/.github/main/profile/assets/activity-light.svg" width="100%"></picture>
 
-<details><summary>최근 활동을 글로 보기 (2026-11-21 13:52 KST 기준)</summary>
+<details><summary>최근 활동을 글로 보기 (2026-11-21 22:55 KST 기준)</summary>
 
-- <a href="https://github.com/modootoday/pmcp">pmcp</a>: chore: release pmcp 0.35.1 (8시간 전)
-- <a href="https://github.com/modootoday/pmcp">pmcp</a>: docs(upgrading): pmcp doctor is what reports the marketplace path read (8시간 전)
-- <a href="https://github.com/modootoday/pmcp">pmcp</a>: fix(hooks): git.push_without_verify also refuses a push that points core.hooksPath away (9시간 전)
-- <a href="https://github.com/modootoday/pmcp">pmcp</a>: test: fixture paths use neutral names (10시간 전)
-- <a href="https://github.com/modootoday/envs">envs</a>: feat(doctor): report a source's file that disagrees with the current release (1일 전)
-- <a href="https://github.com/modootoday/envs">envs</a>: chore(release): 0.5.3, doctor reports a source's file that disagrees with the current release (1일 전)
+- <a href="https://github.com/modootoday/pmcp">pmcp</a>: chore: release pmcp 0.35.1 (17시간 전)
+- <a href="https://github.com/modootoday/pmcp">pmcp</a>: docs(upgrading): pmcp doctor is what reports the marketplace path read (18시간 전)
+- <a href="https://github.com/modootoday/pmcp">pmcp</a>: fix(hooks): git.push_without_verify also refuses a push that points core.hooksPath away (18시간 전)
+- <a href="https://github.com/modootoday/pmcp">pmcp</a>: test: fixture paths use neutral names (19시간 전)
+- <a href="https://github.com/modootoday/envs">envs</a>: feat(doctor): report a source's file that disagrees with the current release (2일 전)
+- <a href="https://github.com/modootoday/envs">envs</a>: chore(release): 0.5.3, doctor reports a source's file that disagrees with the current release (2일 전)
 - <a href="https://github.com/modootoday/specfold">specfold</a>: release: 0.10.0 (3일 전)
 - <a href="https://github.com/modootoday/specfold">specfold</a>: feat(check): mounted repositories resolve through their workspace; D1 skips version bumps (3일 전)
 
