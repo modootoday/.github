@@ -84,18 +84,18 @@ $ spec check
 
 <h2><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/modootoday/.github/main/profile/assets/sec-activity-dark.svg"><img alt="03 최근 활동 – 공개 저장소의 최근 커밋" src="https://raw.githubusercontent.com/modootoday/.github/main/profile/assets/sec-activity-light.svg" width="100%"></picture></h2>
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/modootoday/.github/main/profile/assets/activity-dark.svg"><img alt="최근 활동 – 공개 저장소 커밋 · 기준 2026-11-24 12:38 KST. 1) pmcp: chore: release pmcp 0.37.1 (5시간 전). 2) pmcp: ci: run the documentation build and full tests on bun 1.4.4 (5시간 전). 3) pmcp: fix(doctor): codex project trusted accepts an ancestor or the main worktree root (14시간 전). 4) pmcp: chore: release pmcp 0.37.0 (1일 전). 5) envs: feat(doctor): report a source's file that disagrees with the current release (4일 전). 6) envs: chore(release): 0.5.3, doctor reports a source's file that disagrees with the current release (4일 전). 7) specfold: release: 0.10.0 (6일 전). 8) specfold: feat(check): mounted repositories resolve through their workspace; D1 skips version bumps (6일 전)." src="https://raw.githubusercontent.com/modootoday/.github/main/profile/assets/activity-light.svg" width="100%"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/modootoday/.github/main/profile/assets/activity-dark.svg"><img alt="최근 활동 – 공개 저장소 커밋 · 기준 2026-11-25 01:44 KST. 1) specfold: release: 0.11.0 (7시간 전). 2) specfold: feat(check): aliases are scoped by owner (7시간 전). 3) specfold: test(contract): compare set previews with the updated stamp masked (7시간 전). 4) pmcp: chore: release pmcp 0.37.2 (7시간 전). 5) pmcp: fix(serve): answer tools/list while the catalog walk for resources and skills lists runs (8시간 전). 6) pmcp: chore: release pmcp 0.37.1 (18시간 전). 7) pmcp: ci: run the documentation build and full tests on bun 1.4.4 (19시간 전). 8) envs: feat(doctor): report a source's file that disagrees with the current release (5일 전)." src="https://raw.githubusercontent.com/modootoday/.github/main/profile/assets/activity-light.svg" width="100%"></picture>
 
-<details><summary>최근 활동을 글로 보기 (2026-11-24 12:38 KST 기준)</summary>
+<details><summary>최근 활동을 글로 보기 (2026-11-25 01:44 KST 기준)</summary>
 
-- <a href="https://github.com/modootoday/pmcp">pmcp</a>: chore: release pmcp 0.37.1 (5시간 전)
-- <a href="https://github.com/modootoday/pmcp">pmcp</a>: ci: run the documentation build and full tests on bun 1.4.4 (5시간 전)
-- <a href="https://github.com/modootoday/pmcp">pmcp</a>: fix(doctor): codex project trusted accepts an ancestor or the main worktree root (14시간 전)
-- <a href="https://github.com/modootoday/pmcp">pmcp</a>: chore: release pmcp 0.37.0 (1일 전)
-- <a href="https://github.com/modootoday/envs">envs</a>: feat(doctor): report a source's file that disagrees with the current release (4일 전)
-- <a href="https://github.com/modootoday/envs">envs</a>: chore(release): 0.5.3, doctor reports a source's file that disagrees with the current release (4일 전)
-- <a href="https://github.com/modootoday/specfold">specfold</a>: release: 0.10.0 (6일 전)
-- <a href="https://github.com/modootoday/specfold">specfold</a>: feat(check): mounted repositories resolve through their workspace; D1 skips version bumps (6일 전)
+- <a href="https://github.com/modootoday/specfold">specfold</a>: release: 0.11.0 (7시간 전)
+- <a href="https://github.com/modootoday/specfold">specfold</a>: feat(check): aliases are scoped by owner (7시간 전)
+- <a href="https://github.com/modootoday/specfold">specfold</a>: test(contract): compare set previews with the updated stamp masked (7시간 전)
+- <a href="https://github.com/modootoday/pmcp">pmcp</a>: chore: release pmcp 0.37.2 (7시간 전)
+- <a href="https://github.com/modootoday/pmcp">pmcp</a>: fix(serve): answer tools/list while the catalog walk for resources and skills lists runs (8시간 전)
+- <a href="https://github.com/modootoday/pmcp">pmcp</a>: chore: release pmcp 0.37.1 (18시간 전)
+- <a href="https://github.com/modootoday/pmcp">pmcp</a>: ci: run the documentation build and full tests on bun 1.4.4 (19시간 전)
+- <a href="https://github.com/modootoday/envs">envs</a>: feat(doctor): report a source's file that disagrees with the current release (5일 전)
 
 </details>
 
