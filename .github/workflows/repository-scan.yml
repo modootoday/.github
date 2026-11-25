@@ -29,6 +29,10 @@ on:
         description: The caller's unit catalog module.
         type: string
         default: .security-audit/catalog.mjs
+      audit:
+        description: "Run the dependency audit. A caller whose dependencies are locked by another repository sets false; that repository's audit covers them."
+        type: boolean
+        default: true
       audit-floor:
         description: Lowest severity of a new advisory that fails the dependency audit.
         type: string
@@ -102,11 +106,18 @@ jobs:
           echo "SCANNER=$GITHUB_WORKSPACE/$SCANNER_PATH" >> "$GITHUB_ENV"
       - name: Dependency audit
         id: deps
+        if: inputs.audit
         env:
           AUDIT_FLOOR: ${{ inputs.audit-floor }}
-        run: node "$SCANNER/dist/cli/audit-dependencies.js" --root . --floor "$AUDIT_FLOOR"
+        # Without a lock the audit reports no advisories and passes.
+        run: |
+          if [ ! -f bun.lock ] && [ ! -f bun.lockb ]; then
+            echo "::error::the dependency audit needs bun.lock; a caller locked elsewhere sets audit: false"
+            exit 1
+          fi
+          node "$SCANNER/dist/cli/audit-dependencies.js" --root . --floor "$AUDIT_FLOOR"
       - name: Secrets gate
-        if: always() && steps.deps.outcome != 'skipped'
+        if: always() && env.SCANNER != ''
         env:
           CATALOG: ${{ inputs.catalog }}
         run: |
