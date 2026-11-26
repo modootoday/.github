@@ -84,18 +84,18 @@ $ spec check
 
 <h2><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/modootoday/.github/main/profile/assets/sec-activity-dark.svg"><img alt="03 최근 활동 – 공개 저장소의 최근 커밋" src="https://raw.githubusercontent.com/modootoday/.github/main/profile/assets/sec-activity-light.svg" width="100%"></picture></h2>
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/modootoday/.github/main/profile/assets/activity-dark.svg"><img alt="최근 활동 – 공개 저장소 커밋 · 기준 2026-11-26 10:20 KST. 1) pmcp: chore: release pmcp 0.37.6 (15시간 전). 2) pmcp: fix(git): a gitlink held behind its pin on purpose keeps sync at exit 0 (15시간 전). 3) pmcp: fix(git): sync fails and names a gitlink left behind its pin (16시간 전). 4) pmcp: fix(package): read npm pack --json from npm 12 as well as npm 11 (18시간 전). 5) specfold: release: 0.11.0 (1일 전). 6) specfold: feat(check): aliases are scoped by owner (1일 전). 7) specfold: test(contract): compare set previews with the updated stamp masked (1일 전). 8) envs: feat(doctor): report a source's file that disagrees with the current release (6일 전)." src="https://raw.githubusercontent.com/modootoday/.github/main/profile/assets/activity-light.svg" width="100%"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/modootoday/.github/main/profile/assets/activity-dark.svg"><img alt="최근 활동 – 공개 저장소 커밋 · 기준 2026-11-27 01:03 KST. 1) datalab-extension-mcp: release 1.18.1 (1시간 전). 2) datalab-extension-mcp: release 1.18.0 (1시간 전). 3) datalab-extension-mcp: Create CNAME (3시간 전). 4) datalab-extension-mcp: Delete CNAME (3시간 전). 5) envs: chore(release): 0.6.0, set writes the new value into the source's file (4시간 전). 6) envs: feat(set): write the new value into the source's file, --catalog-only keeps the old way (4시간 전). 7) pmcp: chore: release pmcp 0.37.6 (1일 전). 8) pmcp: fix(git): a gitlink held behind its pin on purpose keeps sync at exit 0 (1일 전)." src="https://raw.githubusercontent.com/modootoday/.github/main/profile/assets/activity-light.svg" width="100%"></picture>
 
-<details><summary>최근 활동을 글로 보기 (2026-11-26 10:20 KST 기준)</summary>
+<details><summary>최근 활동을 글로 보기 (2026-11-27 01:03 KST 기준)</summary>
 
-- <a href="https://github.com/modootoday/pmcp">pmcp</a>: chore: release pmcp 0.37.6 (15시간 전)
-- <a href="https://github.com/modootoday/pmcp">pmcp</a>: fix(git): a gitlink held behind its pin on purpose keeps sync at exit 0 (15시간 전)
-- <a href="https://github.com/modootoday/pmcp">pmcp</a>: fix(git): sync fails and names a gitlink left behind its pin (16시간 전)
-- <a href="https://github.com/modootoday/pmcp">pmcp</a>: fix(package): read npm pack --json from npm 12 as well as npm 11 (18시간 전)
-- <a href="https://github.com/modootoday/specfold">specfold</a>: release: 0.11.0 (1일 전)
-- <a href="https://github.com/modootoday/specfold">specfold</a>: feat(check): aliases are scoped by owner (1일 전)
-- <a href="https://github.com/modootoday/specfold">specfold</a>: test(contract): compare set previews with the updated stamp masked (1일 전)
-- <a href="https://github.com/modootoday/envs">envs</a>: feat(doctor): report a source's file that disagrees with the current release (6일 전)
+- <a href="https://github.com/modootoday/datalab-extension-mcp">datalab-extension-mcp</a>: release 1.18.1 (1시간 전)
+- <a href="https://github.com/modootoday/datalab-extension-mcp">datalab-extension-mcp</a>: release 1.18.0 (1시간 전)
+- <a href="https://github.com/modootoday/datalab-extension-mcp">datalab-extension-mcp</a>: Create CNAME (3시간 전)
+- <a href="https://github.com/modootoday/datalab-extension-mcp">datalab-extension-mcp</a>: Delete CNAME (3시간 전)
+- <a href="https://github.com/modootoday/envs">envs</a>: chore(release): 0.6.0, set writes the new value into the source's file (4시간 전)
+- <a href="https://github.com/modootoday/envs">envs</a>: feat(set): write the new value into the source's file, --catalog-only keeps the old way (4시간 전)
+- <a href="https://github.com/modootoday/pmcp">pmcp</a>: chore: release pmcp 0.37.6 (1일 전)
+- <a href="https://github.com/modootoday/pmcp">pmcp</a>: fix(git): a gitlink held behind its pin on purpose keeps sync at exit 0 (1일 전)
 
 </details>
 
