@@ -84,18 +84,18 @@ $ spec check
 
 <h2><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/modootoday/.github/main/profile/assets/sec-activity-dark.svg"><img alt="03 최근 활동 – 공개 저장소의 최근 커밋" src="https://raw.githubusercontent.com/modootoday/.github/main/profile/assets/sec-activity-light.svg" width="100%"></picture></h2>
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/modootoday/.github/main/profile/assets/activity-dark.svg"><img alt="최근 활동 – 공개 저장소 커밋 · 기준 2026-11-28 09:52 KST. 1) datalab-extension-mcp: docs docs-20261127T220514Z (2시간 전). 2) datalab-extension-mcp: docs docs-20261127T141145Z (10시간 전). 3) datalab-extension-mcp: release 1.18.2 (18시간 전). 4) pmcp: chore: release pmcp 0.37.7 (1일 전). 5) pmcp: fix(remote): a sign-in is sent only to the API origin it was granted for (1일 전). 6) datalab-extension-mcp: release 1.18.1 (1일 전). 7) envs: chore(release): 0.6.0, set writes the new value into the source's file (1일 전). 8) envs: feat(set): write the new value into the source's file, --catalog-only keeps the old way (1일 전)." src="https://raw.githubusercontent.com/modootoday/.github/main/profile/assets/activity-light.svg" width="100%"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/modootoday/.github/main/profile/assets/activity-dark.svg"><img alt="최근 활동 – 공개 저장소 커밋 · 기준 2026-11-28 23:47 KST. 1) datalab-extension-mcp: release 1.18.5 (2시간 전). 2) datalab-extension-mcp: docs docs-20261128T102800Z (4시간 전). 3) datalab-extension-mcp: release 1.18.4 (4시간 전). 4) datalab-extension-mcp: release 1.18.3 (13시간 전). 5) pmcp: chore: release pmcp 0.37.7 (1일 전). 6) pmcp: fix(remote): a sign-in is sent only to the API origin it was granted for (1일 전). 7) envs: chore(release): 0.6.0, set writes the new value into the source's file (2일 전). 8) envs: feat(set): write the new value into the source's file, --catalog-only keeps the old way (2일 전)." src="https://raw.githubusercontent.com/modootoday/.github/main/profile/assets/activity-light.svg" width="100%"></picture>
 
-<details><summary>최근 활동을 글로 보기 (2026-11-28 09:52 KST 기준)</summary>
+<details><summary>최근 활동을 글로 보기 (2026-11-28 23:47 KST 기준)</summary>
 
-- <a href="https://github.com/modootoday/datalab-extension-mcp">datalab-extension-mcp</a>: docs docs-20261127T220514Z (2시간 전)
-- <a href="https://github.com/modootoday/datalab-extension-mcp">datalab-extension-mcp</a>: docs docs-20261127T141145Z (10시간 전)
-- <a href="https://github.com/modootoday/datalab-extension-mcp">datalab-extension-mcp</a>: release 1.18.2 (18시간 전)
+- <a href="https://github.com/modootoday/datalab-extension-mcp">datalab-extension-mcp</a>: release 1.18.5 (2시간 전)
+- <a href="https://github.com/modootoday/datalab-extension-mcp">datalab-extension-mcp</a>: docs docs-20261128T102800Z (4시간 전)
+- <a href="https://github.com/modootoday/datalab-extension-mcp">datalab-extension-mcp</a>: release 1.18.4 (4시간 전)
+- <a href="https://github.com/modootoday/datalab-extension-mcp">datalab-extension-mcp</a>: release 1.18.3 (13시간 전)
 - <a href="https://github.com/modootoday/pmcp">pmcp</a>: chore: release pmcp 0.37.7 (1일 전)
 - <a href="https://github.com/modootoday/pmcp">pmcp</a>: fix(remote): a sign-in is sent only to the API origin it was granted for (1일 전)
-- <a href="https://github.com/modootoday/datalab-extension-mcp">datalab-extension-mcp</a>: release 1.18.1 (1일 전)
-- <a href="https://github.com/modootoday/envs">envs</a>: chore(release): 0.6.0, set writes the new value into the source's file (1일 전)
-- <a href="https://github.com/modootoday/envs">envs</a>: feat(set): write the new value into the source's file, --catalog-only keeps the old way (1일 전)
+- <a href="https://github.com/modootoday/envs">envs</a>: chore(release): 0.6.0, set writes the new value into the source's file (2일 전)
+- <a href="https://github.com/modootoday/envs">envs</a>: feat(set): write the new value into the source's file, --catalog-only keeps the old way (2일 전)
 
 </details>
 
